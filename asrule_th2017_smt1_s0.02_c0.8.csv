@@ -1,0 +1,4 @@
+,antecedents,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction,antecedent_len
+6,"frozenset({'Form Pendaftaran Proposal Tugas Akhir', 'Form Pendaftaran Sidang Tugas Akhir'})",frozenset({'Form Pendaftaran Seminar Tugas Akhir'}),0.02608695652173913,0.07173913043478261,0.025,0.9583333333333335,13.35858585858586,0.023128544423440454,22.278260869565297,2
+7,"frozenset({'Form Pendaftaran Proposal Tugas Akhir', 'RG141536 - Tugas Akhir'})",frozenset({'Form Pendaftaran Seminar Tugas Akhir'}),0.03260869565217391,0.07173913043478261,0.03152173913043478,0.9666666666666667,13.474747474747474,0.029182419659735347,27.847826086956527,2
+8,"frozenset({'RG141536 - Tugas Akhir', 'Form Pendaftaran Sidang Tugas Akhir'})",frozenset({'Form Pendaftaran Seminar Tugas Akhir'}),0.02391304347826087,0.07173913043478261,0.02282608695652174,0.9545454545454545,13.30578512396694,0.021110586011342154,20.42173913043475,2

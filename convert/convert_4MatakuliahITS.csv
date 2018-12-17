@@ -1,0 +1,1516 @@
+No|Fakultas|Jurusan|Kode|ID|Matakuliah|Aksi
+1|Fakultas Ilmu Alam (FIA)|Fisika|SF091215|141|Analisis Data Difraksi 2014-15|setting
+2|Fakultas Ilmu Alam (FIA)|Kimia|SK091204|144|SK091204 Kemometrik|setting
+3|Fakultas Teknologi Industri (FTI)|Teknik Material dan Metalurgi|MM091335|151|MM091335 Matematika Rekayasa I|setting
+4|Fakultas Teknologi Industri (FTI)|Teknik Fisika|IG-091311|153|IG-091311 Pengantar Technopreneurship|setting
+5|UPT Penyelenggara Mata Kuliah Sosial Humaniora|S1|IG 091307|161|IG 091307 BAHASA INDONESIA|setting
+6|Fakultas Teknologi Industri (FTI)|Teknik Industri|Percobaan|162|IE-1402 Percobaan|setting
+7|Fakultas Ilmu Alam (FIA)|Fisika|SF2434|168|Analisis Data Difraksi (S2) - Gasal 2014/2015|setting
+8|Fakultas Teknologi Industri (FTI)|Teknik Kimia|TK091334|171|Kimia Fisika|setting
+9|Fakultas Ilmu Alam (FIA)|Fisika|SF091220|201|Elektro Digital - New|setting
+10|UPT Penyelenggara Mata Kuliah Sosial Humaniora|S1|IG-091308|205|IG-091308 BAHASA INGRRIS|setting
+11|UPT Penyelenggara Mata Kuliah Sosial Humaniora|S1|IG091308|209|IG091308 BAHASA INGGRIS|setting
+12|UPT Penyelenggara Mata Kuliah Sosial Humaniora|S1|Bingg_1|211|Bahasa Inggris copy 1|setting
+13|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF-091352|212|PEMROSESAN SINYAL (PAK DHANY A)|setting
+14|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF185101|214|TF185101 FISIKA TEKNIK LANJUT|setting
+15|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Kartografi Digital - ABC|222|RG141316 - Kartografi Digital - ABC|setting
+16|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|35100RM1845212018B|238|RM184521 - Sistem Informasi Geografis - ABC|setting
+17|Fakultas Teknologi Industri (FTI)|Teknik Fisika|BISLING LINGKUNGAN|239|TF 141424 BISING LINGKUNGAN|setting
+18|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Tugas Akhir (T. Geomatika)|242|RG141536 - Tugas Akhir|setting
+19|Fakultas Teknologi Industri (FTI)|Teknik Fisika|INSTRUMENTASI LANJUT|286|INSTRUMENTASI LANJUT|setting
+20|Fakultas Teknologi Industri (FTI)|Teknik Kimia|TK141211-A|287|Program Komputer - A|setting
+21|Fakultas Teknologi Industri (FTI)|Teknik Kimia|TK141363|291|Operasi Teknik Kimia III - D|setting
+22|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Kerja Praktek|294|RG141335 - Kerja Praktek|setting
+23|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Fotogrametri Dasar - ABC|301|RG141317 - Fotogrametri Dasar - ABC|setting
+24|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Statistik|303|RG141313 - Statistika|setting
+25|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Pemetaan Teristris Dasar - KHM|304|RG141306 - Pemetaan Teristris Dasar - KHM|setting
+26|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Pemetaan Pertambangan - ABC|305|RG141329 - Pemetaan Pertambangan - ABC|setting
+27|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF185102|307|TF185102 MATEMATIKA TEKNIK LANJUT|setting
+28|Fakultas Teknologi Industri (FTI)|Teknik Fisika|DINAMIKA SISTEM LANJUT|308|DINAMIKA SISTEM LANJUT|setting
+29|Fakultas Teknologi Industri (FTI)|Teknik Fisika|ISS2|311|IDENTIFIKASI SISTEM|setting
+30|Fakultas Teknologi Industri (FTI)|Teknik Fisika|SPTS2|312|SEMINAR PROPOSAL THESIS|setting
+31|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TOS2|313|TEKNIK OPTIMASI|setting
+32|Fakultas Teknologi Industri (FTI)|Teknik Fisika|KOLS2|314|KONTROL OTOMATIK LANJUT|setting
+33|Fakultas Teknologi Industri (FTI)|Teknik Fisika|SKO LANJUT|316|SISTEM KONTROL OTOMATIK LANJUT|setting
+34|Fakultas Teknologi Industri (FTI)|Teknik Fisika|FTMS2|317|FISIKA TUBUH MANUSIA|setting
+35|Fakultas Teknologi Industri (FTI)|Teknik Fisika|DASAR DASAR CLINICAL ENGINEERING|318|DASAR DASAR CLINICAL ENGINEERING|setting
+36|Fakultas Teknologi Industri (FTI)|Teknik Fisika|METPEN & RISET|319|METODOLOGI PENELITIAN DAN RISET ILMIAH - S3|setting
+37|Fakultas Teknologi Industri (FTI)|Teknik Fisika|FBMS2|320|FOTONIKA BIOMEDIK|setting
+38|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TPMS2|321|TEKNOLOGI PENCITRAAN MEDIS|setting
+39|Fakultas Teknologi Industri (FTI)|Teknik Fisika|PENYUSUNAN PROPOSAL S3|323|PENYUSUNAN PROPOSAL S3|setting
+40|Fakultas Ilmu Alam (FIA)|Fisika|SF091308|332|Elektronika Dasar II|setting
+41|Fakultas Teknologi Industri (FTI)|Teknik Fisika|MATREK2|333|TF 141241- MATEMATIKA REKAYASA II (PAK SUYANTO)|setting
+42|Fakultas Teknologi Industri (FTI)|Teknik Fisika|Fuzzy_1|362|TF 141407 Sistem Fuzzy|setting
+43|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF101_1|363|Teknik Konversi & Konservasi Energi|setting
+44|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF091201|364|Teknologi Informasi dan Komunikasi S1 ( 3 sks / 1)|setting
+45|Fakultas Teknologi Industri (FTI)|Teknik Fisika|PROTEKSI RADIASI|365|PROTEKSI RADIASI|setting
+46|Fakultas Ilmu Alam (FIA)|Fisika|SF1353|371|Fisika Matematika I (B-Suminar Pratapa) Gasal 2014/2015|setting
+47|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI-091309|380|TI-091309 Sistem Manufaktur|setting
+48|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|35100RM1849562018_|383|RM184956 - Kadaster 3 Dimensi|setting
+49|Fakultas Ilmu Alam (FIA)|Fisika|SF092003 S2|469|Mekanika Statistik (S2) - (Suminar Pratapa, Ph.D)|setting
+50|Fakultas Ilmu Alam (FIA)|Fisika|SF092004|471|Metode Riset Fisika 2013/2014 (Suminar Pratapa, Ph.D)|setting
+51|Fakultas Ilmu Alam (FIA)|Fisika|Difraksi Material Fungsional|473|Difraksi Serbuk Material Fungsional (S3)|setting
+52|Program Pasca Sarjana (PPS)|Magister Teknik Geomatika|RG-092999|474|RG-092999 Tesis|setting
+53|Fakultas Ilmu Alam (FIA)|Fisika|SF1407 S1|475|Difraksi Kristal 2 sks - Gasal 2014/2015|setting
+54|Fakultas Ilmu Alam (FIA)|Fisika|SF091206|476|Fisika Komputasi (Lila Yuwana)|setting
+55|Fakultas Ilmu Alam (FIA)|Kimia|SK091551|478|SK091551 Kemo- dan Bio-Sensor|setting
+56|Fakultas Ilmu Alam (FIA)|Kimia|SK091313|479|SK091313 Dinamika Kimia|setting
+57|Fakultas Ilmu Alam (FIA)|Kimia|SK091351|480|SK091351 BIOPROSES|setting
+58|Fakultas Ilmu Alam (FIA)|Kimia|SK092231|483|SK092231 Material Penyimpan Energi (S2)|setting
+59|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091446 - A|485|TI091446 Analisa Keputusan - A|setting
+60|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091207|486|TI091207 Analisis dan Estimasi Biaya|setting
+61|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091427|487|TI091427 eBusiness dan eCommerce|setting
+62|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091311|488|TI091311 Ekonomi Teknik|setting
+63|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091438|489|TI091438 Human Reliability|setting
+64|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091441A|490|TI091441 Kapita Selekta Teknik Industri - A|setting
+65|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091441B|491|TI091441 Kapita Selekta Teknik Industri - B|setting
+66|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091409|492|TI091409 Keselamatan & Kesehatan Kerja|setting
+67|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091407|493|TI091407 Manajemen Jasa|setting
+68|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091449|494|TI091449 Manajemen Keuangan|setting
+69|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091318A|495|TI091318 Manajemen Logistik - A|setting
+70|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091318|496|TI091318 Manajemen Logistik - B|setting
+71|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091318C|497|TI091318 Manajemen Logistik - C|setting
+72|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091318D|498|TI091318 Manajemen Logistik - D|setting
+73|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091402|499|TI091402 Manajemen Material dan Pengadaan|setting
+74|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091211A|500|TI091211 Manajemen Organisasi dan Sumber Daya Manusia - A|setting
+75|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091211B|501|TI091211 Manajemen Organisasi dan Sumber Daya Manusia - B|setting
+76|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091211C|502|TI091211 Manajemen Organisasi dan Sumber Daya Manusia - C|setting
+77|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091433|503|TI091433 Manajemen Performansi|setting
+78|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091308|504|TI091308 Manajemen Proyek|setting
+79|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091308B|505|TI091308 Manajemen Proyek - B|setting
+80|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091404|506|TI091404 Manajemen Teknologi|setting
+81|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091450|507|TI091450 Manajemen Transportasi Udara|setting
+82|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091101A|508|TI091101 Matematika Optimasi II - A|setting
+83|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091101B|509|TI091101 Matematika Optimasi II - B|setting
+84|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091101C|510|TI091101 Matematika Optimasi II - C|setting
+85|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091101Q|511|TI091101 Matematika Optimasi II - Q|setting
+86|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091416|512|TI091416 Metode Heuristics|setting
+87|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091315|513|TI091315 Pemodelan Sistem|setting
+88|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091315B|514|TI091315 Pemodelan Sistem - B|setting
+89|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091315C|515|TI091315 Pemodelan Sistem - C|setting
+90|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091306A|516|TI091306 Penelitian Operasional I - A|setting
+91|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091306B|517|TI091306 Penelitian Operasional I - B|setting
+92|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091306C|518|TI091306 Penelitian Operasional I - C|setting
+93|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091306Q|519|TI091306 Penelitian Operasional I - Q|setting
+94|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091418|520|TI091418 Pengambilan Keputusan Kriteria Majemuk|setting
+95|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091419|521|TI091419 Pengukuran Kinerja|setting
+96|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091319A|522|TI091319 Perancangan Sistem Industri - A|setting
+97|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091319B|523|TI091319 Perancangan Sistem Industri - B|setting
+98|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091319C|524|TI091319 Perancangan Sistem Industri - C|setting
+99|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091319D|525|TI091319 Perancangan Sistem Industri - D|setting
+100|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091319E|526|TI091319 Perancangan Sistem Industri - E|setting
+101|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091302A|527|TI091302 Proses Manufaktur - A|setting
+102|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091302B|528|TI091302 Proses Manufaktur - B|setting
+103|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091302C|529|TI091302 Proses Manufaktur - C|setting
+104|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091302Q|530|TI091302 Proses Manufaktur - Q|setting
+105|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091317A|531|TI091317 Simulasi Sistem Industri - A|setting
+106|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091317B|532|TI091317 Simulasi Sistem Industri - B|setting
+107|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091317C|533|TI091317 Simulasi Sistem Industri - C|setting
+108|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091415|534|TI091415 Sistem Dinamik|setting
+109|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091309B|535|TI091309 Sistem Manufaktur - B|setting
+110|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091309A|536|TI091309 Sistem Manufaktur - A|setting
+111|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091309Q|537|TI091309 Sistem Manufaktur - Q|setting
+112|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091426|538|TI091426 Six Sigma|setting
+113|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091303B|540|TI091303 Statistik Industri I - B|setting
+114|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091303C|541|TI091303 Statistik Industri I - C|setting
+115|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091303Q|542|TI091303 Statistik Industri I - Q|setting
+116|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091406|543|TI091406 Strategi Korporasi|setting
+117|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091425|544|TI091425 Supply Chain Management|setting
+118|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091428|545|TI091428 Sustainable Manufacturing|setting
+119|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091316A|546|TI091316 Teknik Pengendalian Kualitas - A|setting
+120|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091316B|547|TI091316 Teknik Pengendalian Kualitas - B|setting
+121|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091316C|548|TI091316 Teknik Pengendalian Kualitas - C|setting
+122|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091307A|549|TI091307 Teknik Tata Cara & Pengukuran Kerja - A|setting
+123|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091307B|550|TI091307 Teknik Tata Cara & Pengukuran Kerja - B|setting
+124|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091307C|551|TI091307 Teknik Tata Cara & Pengukuran Kerja - C|setting
+125|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091307Q|552|TI091307 Teknik Tata Cara & Pengukuran Kerja - Q|setting
+126|Fakultas Teknologi Industri (FTI)|Teknik Fisika|SISTEM KECERDASAN BUATAN|553|SISTEM KECERDASAN BUATAN|setting
+127|Fakultas Ilmu Alam (FIA)|Fisika|SM(S1)|554|Spektro-Mikrografi (S1) (Suminar Pratapa, Ph.D)|setting
+128|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI091309C|555|TI091309 Sistem Manufaktur - C|setting
+129|Fakultas Teknologi Industri (FTI)|Teknik Fisika|MATEMATIKA REKAYASA II KELAS BU AULIA|556|TF 141241 MATEMATIKA REKAYASA II KELAS BU AULIA|setting
+130|Fakultas Teknologi Industri (FTI)|Teknik Fisika|FISIKA REKAYASA II KELAS BU AULIA|557|TF 141222 FISIKA REKAYASA II KELAS BU AULIA|setting
+131|Fakultas Teknologi Industri (FTI)|Teknik Fisika|FR|561|TF 141222 FSIKA REKAYASA II Kls C (DETAK YP)|setting
+132|Fakultas Ilmu Alam (FIA)|Kimia|KMS1|563|Kimia Membran (S1)|setting
+133|Fakultas Teknologi Industri (FTI)|Teknik Fisika|AKUSTIK|565|TF 141331 AKUSTIK|setting
+134|Fakultas Teknologi Industri (FTI)|Teknik Fisika|BISING LINGKUNGAN LINTAS JALUR|569|TF 141424 BISING LINGKUNGAN LINTAS JALUR|setting
+135|Fakultas Ilmu Alam (FIA)|Fisika|SF091228|578|Intelligent Instrument|setting
+136|Fakultas Teknologi Industri (FTI)|Teknik Fisika|KALII|582|KALKULUS II|setting
+137|UPT Penyelenggara Mata Kuliah Sosial Humaniora|S1|hibah12_2|586|Bahasa Inggris|setting
+138|Fakultas Teknologi Industri (FTI)|Teknik Fisika|ARTIFICIAL INTELIGENT|588|ARTIFICIAL INTELIGENT|setting
+139|Fakultas Teknologi Industri (FTI)|Teknik Industri|Anprod|633|Analisis Produktivitas|setting
+140|Fakultas Teknologi Industri (FTI)|Teknik Mesin|MEKTEK|638|Mekanika Teknik|setting
+141|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|35100RM1849492018_|738|RM184949 - Aplikasi Radargrammetri|setting
+142|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|35100RM1849472018_|739|RM184947 - Sistem Informasi Geografi Terapan|setting
+143|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Penginderaan Jauh Terapan|740|RG141443 - Penginderaan Jauh Terapan - B|setting
+144|Fakultas Ilmu Alam (FIA)|Fisika|SF1373|749|Seminar Fisika 2014/2015|setting
+145|Fakultas Teknologi Industri (FTI)|Teknik Industri|PTK-B|755|TI091320|setting
+146|Fakultas Teknologi Industri (FTI)|Teknik Industri|PTK|756|Pemeliharaan dan Teknik Keandalan|setting
+147|Fakultas Ilmu Alam (FIA)|Kimia|MP|793|SK091321 Metode Pengukuran|setting
+148|Fakultas Teknologi Industri (FTI)|Teknik Fisika|PENGENDALIAN BISING DI INDUSTRI|797|TF 141425 PENGENDALIAN BISING DI INDUSTRI|setting
+149|Fakultas Teknologi Industri (FTI)|Teknik Industri|PTSI|803|Pengantar Teknik & Sistem Industri|setting
+150|Fakultas Teknologi Industri (FTI)|Teknik Industri|OTI|804|Otomasi Industri|setting
+151|Fakultas Teknologi Industri (FTI)|Teknik Industri|Gartek|805|Menggambar Teknik|setting
+152|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|35100RG1413022014_|806|RG141302 - Kartografi|setting
+153|Fakultas Ilmu Alam (FIA)|Biologi|Fisiologi Tumbuhan|808|SB-1315 Fisiologi Tumbuhan|setting
+154|Fakultas Teknologi Industri (FTI)|Teknik Industri|Ekotek-Q|811|Engineering Economics (Ekonomi Teknik) - Q|setting
+155|Fakultas Teknologi Industri (FTI)|Teknik Industri|PF - B|812|Perancangan Fasilitas - B|setting
+156|Fakultas Ilmu Alam (FIA)|Biologi|Biostatistika|813|SB-1203 Biostatistika|setting
+157|Fakultas Teknologi Industri (FTI)|Teknik Kimia|OTK2-B|825|OTK2-B|setting
+158|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Geodesi Fisik - IMA|826|RG141333 - Geodesi Fisik - IMA|setting
+159|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Sistem Koordinat dan Transformasi|827|RG141327 - Sistem Koordinat dan Transformasi (Kelas A)|setting
+160|Fakultas Teknologi Industri (FTI)|Teknik Fisika|FISIKA BANGUNAN|833|TF 141363 FISIKA BANGUNAN|setting
+161|Fakultas Ilmu Alam (FIA)|Kimia|KMS2|836|Kimia Membran (S2)|setting
+162|Fakultas Teknologi Industri (FTI)|Teknik Kimia|Matekim 1|842|Matematika Teknik Kimia 1C|setting
+163|Fakultas Teknologi Industri (FTI)|Teknik Kimia|TRK 1|843|Teknik Reaksi Kimia 1|setting
+164|Fakultas Teknologi Industri (FTI)|Teknik Kimia|OTK2-A|854|OTK2-A|setting
+165|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Proyeksi Peta - MYA|856|RG141321 - Proyeksi Peta - MYA|setting
+166|Fakultas Ilmu Alam (FIA)|Kimia|MPI|857|SK091322 Metode Pengukuran dengan Instrumen|setting
+167|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TESIS|912|TESIS|setting
+168|Fakultas Teknologi Industri (FTI)|Teknik Fisika|STATISTICAL PROCESS CONTROL|914|STATISTICAL PROCESS CONTROL|setting
+169|UPT Penyelenggara Mata Kuliah Sosial Humaniora|S1|BIng|916|Bahasa Inggris|setting
+170|Fakultas Teknologi Industri (FTI)|Teknik Material dan Metalurgi|KM|917|karakterisasi material|setting
+171|Fakultas Ilmu Alam (FIA)|Fisika|FSIP|918|Instrumentasi dan Pengukuran|setting
+172|Fakultas Teknologi Industri (FTI)|Teknik Fisika|DINAMIKA SISTEM|919|TF DINAMIKA SISTEM (BU AULIA S.A)|setting
+173|Fakultas Teknologi Industri (FTI)|Teknik Fisika|FISREK I|920|TF141212 FISIKA REKAYASA I|setting
+174|Fakultas Teknologi Industri (FTI)|Teknik Fisika|MATEMATIKA REKAYASA I BU AULIA|921|TF 141231 MATEMATIKA REKAYASA I|setting
+175|Fakultas Teknologi Industri (FTI)|Teknik Fisika|KEANDALAN DAN KUALITAS PROSES BU AULIA|922|KEANDALAN DAN KUALITAS PROSES BU AULIA|setting
+176|Fakultas Teknologi Industri (FTI)|Teknik Fisika|STATISTIK DAN STOKASTIK BU AULA|923|TF 141232 STATISTIK DAN STOKASTIK|setting
+177|Fakultas Teknologi Industri (FTI)|Teknik Kimia|TK-092212|930|Pemrosesan Keramik|setting
+178|Fakultas Teknologi Industri (FTI)|Teknik Kimia|KF|949|Kimia Fisika - TK141334 - 4 SKS (2/1/1)|setting
+179|Sistem Pembelajaran Daring (SPADA) Indonesia|2014-2015 Gasal|KDITT ITS|950|Workshop KDITT ITS 2013|setting
+180|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52200KS1423062014_|989|KS142306 - Strategi dan Kebijakan SI/TI|setting
+181|Fakultas Ilmu Alam (FIA)|Kimia|SK091323b_1|996|SK091323 Metode Pemisahan dan Pemurnian - Dra. Ita Ulfin, M.Si copy 1|setting
+182|UPT Penyelenggara Mata Kuliah Sosial Humaniora|S1|Bahasa Inggris Kelas 10|1012|TPB-Bahasa Inggris Kelas 10|setting
+183|UPT Penyelenggara Mata Kuliah Sosial Humaniora|S1|Bahasa Inggris Kelas 2|1013|TPB-Bahasa Inggris Kelas 2|setting
+184|Sistem Pembelajaran Daring (SPADA) Indonesia|none|TK141223_KA|1016|Kimia Analisa|setting
+185|Fakultas Teknologi Industri (FTI)|Teknik Fisika|24100TF1413212014C|1017|TF141321 PEMROGRAMAN KOMPUTER C|setting
+186|UPT Penyelenggara Mata Kuliah Sosial Humaniora|S1|BI22|1018|TPB Bahasa Inggris Kelas 22|setting
+187|UPT Penyelenggara Mata Kuliah Sosial Humaniora|S1|BI29|1019|TPB Bahasa Inggris Kelas 29|setting
+188|Fakultas Ilmu Alam (FIA)|Kimia|SKSO|1027|Sintesis dan Karakterisasi Senyawa Organik (S2 Pengajaran Kimia)|setting
+189|Fakultas Ilmu Alam (FIA)|Kimia|PKBI|1028|Pembelajaran Kimia Berstandar Internasional (S2 Pengajaran Kimia)|setting
+190|Fakultas Ilmu Alam (FIA)|Kimia|KOI|1029|Kimia Organik I|setting
+191|Fakultas Ilmu Alam (FIA)|Kimia|MR(S3-Kimia)|1033|Metodologi Riset (S3)|setting
+192|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Hitung Perataan - IMA|1051|RG141320 - Hitung Perataan - IMA & UWD|setting
+193|UPMB|TPB - Fisika Dasar|FisdasII|1067|FISIKA DASAR II (Kelas TPB04 dan TPB16)|setting
+194|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Geodinamika dan Deformasi|1070|RG141462 - Geodinamika dan Deformasi|setting
+195|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Geodesi Satelit - IMA|1071|RG141319 - Geodesi Satelit - IMA & MYA|setting
+196|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Oseanografi Fisik - LMJ|1072|RG141322 - Oseanografi Fisik - LMJ|setting
+197|Sistem Pembelajaran Daring (SPADA) Indonesia|2014-2015 Gasal|SBD-Daring|1096|Struktur Beton Dasar|setting
+198|Sistem Pembelajaran Daring (SPADA) Indonesia|2014-2015 Gasal|MKB-Daring|1097|Metode Kuantitafif dan Bisnis|setting
+199|Sistem Pembelajaran Daring (SPADA) Indonesia|2014-2015 Gasal|PPS-Daring|1103|Probabilitas dan Proses Stokastik|setting
+200|Sistem Pembelajaran Daring (SPADA) Indonesia|2014-2015 Gasal|PMTI-Daring|1108|Pemetaan I (D3 / 4SKS)|setting
+201|Sistem Pembelajaran Daring (SPADA) Indonesia|2014-2015 Gasal|SPO-Daring|1109|TF091332 - Sistem Pengendalian Otomatis (S1/4 SKS)|setting
+202|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1412032014|1113|KS141203 - Matematika Diskrit|setting
+203|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Desain dan Manajemen Proses Bisnis|1116|KS141301 - Desain dan Manajemen Proses Bisnis|setting
+204|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|MB|1119|RC14-1322 - Mechanics of Materials|setting
+205|UPMB|none|WTKI|1120|Wawasan Teknologi dan Komunikasi Ilmiah|setting
+206|UPMB|none|Techno19|1135|Technopreneurship Kelas 19|setting
+207|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1414052014|1141|KS141405 - Pemrograman Perangkat Bergerak|setting
+208|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|OdRS|1151|Optimasi dalam Rekayasa Sipil|setting
+209|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|TPC|1152|Teori Pelat dan Cangkang|setting
+210|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|SBL|1154|Struktur Baja Lanjut|setting
+211|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|KStr|1155|Keandalan Struktur|setting
+212|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|MPdLI|1156|Metodologi Penelitian dan Laporan Ilmiah|setting
+213|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|PDSB|1157|Perilaku Daktail Struktur Beton|setting
+214|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|PDSBj|1158|Perilaku Daktail Struktur Baja|setting
+215|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|MEH|1159|Metode Elemen Hingga|setting
+216|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|DS|1160|Dinamika Struktur|setting
+217|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|PDEB|1161|Perilaku Daktail Elemen Beton|setting
+218|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|TEs|1162|Teori Elastisitas|setting
+219|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|MRa|1163|Matematika Rekayasa|setting
+220|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1413122014C|1165|KS141312 - Manajemen Proyek TI C|setting
+221|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|DTB|1166|Dam Tanah dan Bantuan|setting
+222|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|DdP|1167|Dewatering dan Penggalian|setting
+223|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|MEHG|1168|Metode Elemen Hingga untuk Geoteknik|setting
+224|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|MPTh|1169|Metode Perbaikan Tanah|setting
+225|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|MTL|1173|Mekanik Tanah Lanjut|setting
+226|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|TG|1174|Tanah Gambut|setting
+227|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|MPn|1175|Metodologi Penelitian|setting
+228|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|rpdpg|1176|Rekayasa Pondasi dan Pemodelan Geoteknik|setting
+229|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|rdpmt|1177|Rheologi dan Perilaku Mikroskopis Tanah|setting
+230|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|mbt|1178|Mekanika Batuan|setting
+231|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|ptli|1179|Pengujian Tanah lanjut dan Intepretasinya|setting
+232|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|addkug|1180|Analisa Data dan Keandalan Untuk Geoteknik|setting
+233|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|mrek|1181|Matematika Rekayasa|setting
+234|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|Manajemen Strategi|1182|Manajemen Strategi|setting
+235|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|Manajemen Desain|1184|Manajemen Desain|setting
+236|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|Utilitas|1185|Utilitas|setting
+237|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|Manajemen Informasi proyek|1186|Manajemen Informasi proyek|setting
+238|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|Manajemen Teknologi Konstruksi|1187|Manajemen Teknologi Konstruksi|setting
+239|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|Metodologi Penelitian|1188|Metodologi Penelitian|setting
+240|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|msdm|1189|Manajemen Sumber Daya Manusia|setting
+241|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|Manajemen Kualitas dan Resiko|1190|Manajemen Kualitas dan Resiko|setting
+242|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|Manajemen Pengadaan dan Kontrak Konstruksi|1191|Manajemen Pengadaan dan Kontrak Konstruksi|setting
+243|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|Manajemen Proyek|1192|Manajemen Proyek|setting
+244|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|Manajemen Keuangan dan Akutansi|1193|Manajemen Keuangan dan Akutansi|setting
+245|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|Analisa Sistem dan Pengambilan Keputusan|1194|Analisa Sistem dan Pengambilan Keputusan|setting
+246|Fakultas Teknologi Industri (FTI)|Teknik Kimia|Prospen I|1196|Proses Perpindahan I|setting
+247|Fakultas Teknologi Industri (FTI)|Teknik Kimia|Teknologi Partikel|1197|Teknologi Partikel|setting
+248|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|Statistik Terapan|1198|Statistik Terapan|setting
+249|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|Aspek Lingkungan pada pengelolaan SDA|1199|Aspek Lingkungan pada pengelolaan SDA|setting
+250|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|Manajemen Sumber Daya Air Terpadu|1200|Manajemen Sumber Daya Air Terpadu|setting
+251|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|Rekayasa Pengelolaan Sumber Daya Air|1201|Rekayasa Pengelolaan Sumber Daya Air|setting
+252|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|Hidrolika Sungai dan Perpipaan|1202|Hidrolika Sungai dan Perpipaan|setting
+253|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|Data Driven dan Computational Intelegence|1203|Data Driven dan Computational Intelegence|setting
+254|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|Metodologi Penelitian2|1204|Metodologi Penelitian|setting
+255|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|Hidrologi|1205|Hidrologi|setting
+256|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|Pemrograman Komputer dan Sistem Informasi|1206|Pemrograman Komputer dan Sistem Informasi|setting
+257|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|Analisa Sumber Daya Air|1207|Analisa Sumber Daya Air|setting
+258|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|Aplikasi Statistika untuk keairan|1208|Aplikasi Statistika untuk keairan|setting
+259|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|Aplikasi Matematila Untuk Keairan|1209|Aplikasi Matematila Untuk Keairan|setting
+260|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|Manajemen Airport|1210|Manajemen Airport|setting
+261|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|Manajemen Pelabuhan|1211|Manajemen Pelabuhan|setting
+262|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|Manajemen Kerusakan jalan|1212|Manajemen Kerusakan jalan|setting
+263|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|Perencanaan Geometrik Lanjut|1213|Perencanaan Geometrik Lanjut|setting
+264|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|Sistem Transportasi masal|1214|Sistem Transportasi masal|setting
+265|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|Dampak Lingkungan dan Keselamatan transportasi|1215|Dampak Lingkungan dan Keselamatan transportasi|setting
+266|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|Metodologi Penelitian3|1216|Metodologi Penelitian|setting
+267|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|Fasilitas Transportasi dan Perpindahan Moda|1217|Fasilitas Transportasi dan Perpindahan Moda|setting
+268|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|Pemodelan Transportasi|1218|Pemodelan Transportasi|setting
+269|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|Rekayasa Jalan Raya dan Perkerasan|1219|Rekayasa Jalan Raya dan Perkerasan|setting
+270|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|Ekonomi Transportasi|1220|Ekonomi Transportasi|setting
+271|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|Rekaya dam Manajemen Lalu Lintas|1221|Rekaya dam Manajemen Lalu Lintas|setting
+272|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|Sistem dan perencanaan Transportasi|1222|Sistem dan perencanaan Transportasi|setting
+273|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|Metode Kuatitatif untuk Rekayasa Transportasi2|1224|Metode Kuatitatif untuk Rekayasa Transportasi|setting
+274|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|Inventarisasi Sistem Informasi Manajemen Aset Infrastruktur|1226|Inventarisasi Sistem Informasi Manajemen Aset Infrastruktur|setting
+275|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|Manajemen Strategi Infrastruktur|1227|Manajemen Strategi Infrastruktur|setting
+276|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|Studi kasus Manajemen Aset Infrastruktur|1228|Studi kasus Manajemen Aset Infrastruktur|setting
+277|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|Dasar Teknik Valuasi dan Teknik Evaluasi|1229|Dasar Teknik Valuasi dan Teknik Evaluasi|setting
+278|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|Metodologi Pengambilan Keputusan Metodologi Penelitian|1230|Metodologi Pengambilan Keputusan Metodologi Penelitian|setting
+279|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|Manajemen Pemeliharaan Infrastruktur ke PU an|1231|Manajemen Pemeliharaan Infrastruktur ke PU an|setting
+280|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|Ekonomi Manajemen Aset Infrastruktur|1232|Ekonomi Manajemen Aset Infrastruktur|setting
+281|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|Metodologi Penelitian4|1233|Metodologi Penelitian|setting
+282|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|Kebijakan Permukiman dan Prasarana Wilayah|1234|Kebijakan Permukiman dan Prasarana Wilayah|setting
+283|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|Sistem Wilayah, Lingkungan dan Hukum Pertahanan|1235|Sistem Wilayah, Lingkungan dan Hukum Pertahanan|setting
+284|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|Dasar-Dasar Manajemen Aset Infrastruktur|1236|Dasar-Dasar Manajemen Aset Infrastruktur|setting
+285|Program Pasca Sarjana (PPS)|Magister Teknik Sipil|Sistem Infrastruktur kePUan2|1238|Sistem Infrastruktur kePUan|setting
+286|Fakultas Ilmu Alam (FIA)|Fisika|SF1342|1239|Fisika Statistik|setting
+287|Fakultas Teknologi Industri (FTI)|Teknik Fisika|STATISTIK ENERGI|1266|STATISTIK ENERGI|setting
+288|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TEKNIK OPTIMASI|1267|TF 141401 TEKNIK OPTIMASI|setting
+289|Fakultas Teknologi Kelautan (FTK)|Teknik Kelautan|MO 141414|1306|Pemodelan Fisik & Numerik|setting
+290|Fakultas Teknologi Kelautan (FTK)|Teknik Kelautan|MO 141413|1307|Pengerukan dan Reklamasi|setting
+291|Fakultas Teknologi Kelautan (FTK)|Teknik Kelautan|MO 141314|1308|Perancangan Struktur Pantai (TRB I)|setting
+292|Fakultas Teknologi Kelautan (FTK)|Teknik Kelautan|MO 141312|1309|Struktur Perlindungan Pantai|setting
+293|Fakultas Teknologi Kelautan (FTK)|Teknik Kelautan|MO 141211|1310|Pondasi Bangunan Laut|setting
+294|Fakultas Teknologi Kelautan (FTK)|Teknik Kelautan|MO 141210|1311|Mekanika Tanah|setting
+295|Fakultas Ilmu Alam (FIA)|Kimia|Kimia Medisinal|1317|Kimia Medisinal|setting
+296|Fakultas Ilmu Alam (FIA)|Kimia|Bioassay|1318|Bioassay|setting
+297|Fakultas Ilmu Alam (FIA)|Kimia|Wawasan Riset|1319|Wawasan Riset|setting
+298|Fakultas Teknologi Kelautan (FTK)|Teknik Kelautan|ds2|1347|Dinamika Struktur II|setting
+299|Fakultas Teknologi Kelautan (FTK)|Teknik Kelautan|FKl|1348|Fisika Kelautan|setting
+300|Fakultas Teknologi Kelautan (FTK)|Teknik Kelautan|Mtk|1349|Menggambar Teknik|setting
+301|UPT Penyelenggara Mata Kuliah Sosial Humaniora|S1|AI|1392|Agama Islam|setting
+302|Fakultas Teknologi Kelautan (FTK)|Teknik Sistem Perkapalan|ME184101|1402|ME184101-MENGGAMBAR TEKNIK dan CAD|setting
+303|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TUGAS AKHIR|1409|TF 141581 TUGAS AKHIR (PAK TUTUG)|setting
+304|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1414132014_|1411|KS141413 - Manajemen Kualitas SI/TI|setting
+305|Sistem Pembelajaran Daring (SPADA) Indonesia|none|PPL-TC_1|1422|Perancangan Perangkat Lunak|setting
+306|Sistem Pembelajaran Daring (SPADA) Indonesia|none|pdaa|1424|Perancangan dan Analisis Algoritma|setting
+307|Sistem Pembelajaran Daring (SPADA) Indonesia|none|Statistika_1_1|1425|KS091207 - Statistika|setting
+308|Sistem Pembelajaran Daring (SPADA) Indonesia|none|SFB3_1|1426|Sistem Fungsional Bisnis 2|setting
+309|Sistem Pembelajaran Daring (SPADA) Indonesia|none|Pemantauan dan Evaluasi TI_1_1|1427|KS091325 - Pemantauan dan Evaluasi TI|setting
+310|Sistem Pembelajaran Daring (SPADA) Indonesia|none|TB141301_1|1429|TB141301 Pengantar Manajemen Bisnis|setting
+311|Sistem Pembelajaran Daring (SPADA) Indonesia|none|manufaktur-daring|1431|TI091302 Proses Manufaktur|setting
+312|Sistem Pembelajaran Daring (SPADA) Indonesia|none|metnum|1432|Metode Numerik|setting
+313|Sistem Pembelajaran Daring (SPADA) Indonesia|none|hibah02_1_1|1433|Instrumentasi Lanjut|setting
+314|Sistem Pembelajaran Daring (SPADA) Indonesia|none|MBD_1|1435|Manajemen Basis Data|setting
+315|Sistem Pembelajaran Daring (SPADA) Indonesia|none|TF141212-Daring|1436|TF141212 Fisika Rekayasa I|setting
+316|Sistem Pembelajaran Daring (SPADA) Indonesia|none|KS141314-Daring|1442|KS141314 Perencanaan Sumber Daya Perusahaan|setting
+317|Sistem Pembelajaran Daring (SPADA) Indonesia|Backup PDITT|TK141223-Daring|1444|TK141223 Kimia Analisa|setting
+318|Sistem Pembelajaran Daring (SPADA) Indonesia|Backup PDITT|Bising-Daring|1445|Bising Lingkungan|setting
+319|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|KKI|1448|KS141208 - Kepemimpinan dan Ketrampilan Interpersonal|setting
+320|Sistem Pembelajaran Daring (SPADA) Indonesia|none|KS091303-Daring|1450|KS091303 Sistem Operasi|setting
+321|Fakultas Teknologi Kelautan (FTK)|Teknik Sistem Perkapalan|CFD|1454|MARINE CFD|setting
+322|Fakultas Teknologi Kelautan (FTK)|Teknik Sistem Perkapalan|CNC|1455|CNC|setting
+323|Fakultas Teknologi Kelautan (FTK)|Teknik Sistem Perkapalan|ME141302|1456|MEKANIKA TEKNIK|setting
+324|Fakultas Teknologi Kelautan (FTK)|Teknik Sistem Perkapalan|ME141315|1457|GETARAN SISTEM PERMESINAN|setting
+325|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|SC|1460|KS141322 - Sistem Cerdas|setting
+326|Fakultas Teknologi Industri (FTI)|Teknik Fisika|ELEKTROMAGNETIKA|1462|TF 141242 ELEKTROMAGNETIKA|setting
+327|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1414042014_|1464|KS141404 - Teknik Peramalan|setting
+328|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1414012014A|1467|KS141401 - Sistem Pendukung Keputusan A|setting
+329|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1413162014|1470|KS141316 - Manajemen Layanan TI|setting
+330|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1414072014|1475|KS141407 - Pemrograman Integratif|setting
+331|Fakultas Teknologi Industri (FTI)|Teknik Fisika|MP16|1478|TF 141361 METODOLOGI PENELITIAN (BU AULIA)|setting
+332|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Manajemen Survei dan Pemetaan - ABC|1487|RG141331 - Manajemen Survei dan Pemetaan - ABC|setting
+333|Sistem Pembelajaran Daring (SPADA) Indonesia|none|MRT_1|1488|Manajemen Resiko Teknologi Informasi|setting
+334|Fakultas Ilmu Alam (FIA)|Kimia|KOb|1489|Kimia Obat|setting
+335|Fakultas Ilmu Alam (FIA)|Kimia|RSOk|1490|Reaksi Senyawa Organik|setting
+336|Fakultas Ilmu Alam (FIA)|Kimia|KPn|1491|Kimia Pangan|setting
+337|Fakultas Ilmu Alam (FIA)|Kimia|KMA|1492|Kimia Minyak Atsiri|setting
+338|Fakultas Ilmu Alam (FIA)|Kimia|koba|1493|Kimia Organik Bahan Alam|setting
+339|Fakultas Teknologi Kelautan (FTK)|Teknik Sistem Perkapalan|ME184519|1495|ME184519 - DESAIN II: PROPELLER dan SISTEM PERPOROSAN|setting
+340|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TABUAULIUA|1508|TF 141581 TUGAS AKHIR BIMBINGAN BU AULIA|setting
+341|Fakultas Teknologi Industri (FTI)|Teknik Fisika|MET PEN AULIA|1509|METODOLOGI PENELITIAN DAN PROPOSAL TESIS S2|setting
+342|UPT Penyelenggara Mata Kuliah Sosial Humaniora|S1|en-reading-blend|1510|Blended Learning for Reading|setting
+343|Fakultas Teknologi Industri (FTI)|Teknik Fisika|KEANDALAN KELAS BU AULIA|1520|TF 141382 KEANDALAN KELAS BU AULIA|setting
+344|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Kadaster Laut|1521|RG141567 - Kadaster Laut|setting
+345|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|35100RM1843082018A|1531|RM184308 - Sistem Basis Data - ABC|setting
+346|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|35100RG1412012014_|1532|RG141201 - Matriks, Ruang dan Vektor|setting
+347|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Topik Dalam Sistem Enterprise|1573|IS185912 - Topik Dalam Sistem Enterprise|setting
+348|Fakultas Teknologi Industri (FTI)|Teknik Industri|Manbi|1576|Manajemen Biaya dan Investasi|setting
+349|Fakultas Teknologi Industri (FTI)|Teknik Industri|Prodman|1577|Produktivitas Manufaktur|setting
+350|Fakultas Teknologi Industri (FTI)|Teknik Industri|AMS|1578|Advanced Manufacturing Systems|setting
+351|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|KI141302|1582|Matematika Diskrit|setting
+352|Fakultas Ilmu Alam (FIA)|Kimia|DKO|1589|Dasar Kimia Organik|setting
+353|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|35100RG1412032014_|1590|RG141203 - Kalkulus|setting
+354|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Gravimetri|1591|RG141463 - Gravimetri|setting
+355|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Satelit Altimetri|1592|RG141454 - Satelit Altimetri|setting
+356|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|35100RM1849552018_|1595|RM184955 - Sistem Informasi Pertanahan|setting
+357|Fakultas Teknologi Industri (FTI)|Teknik Material dan Metalurgi|UK JTMM GENAP 2015/2016|1620|UJI KOMPREHENSIF TEKNIK MATERIAL & METALURGI|setting
+358|Fakultas Teknologi Industri (FTI)|Teknik Fisika|24100TF1413562014B|1630|TF141356 TEKNIK OPTIK B|setting
+359|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|IG141108|1640|Bahasa Inggris|setting
+360|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|KI141301|1641|Dasar Pemrograman E|setting
+361|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|KI141303|1642|Sistem dan Teknologi Informasi|setting
+362|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|KI141304|1643|Sistem Digital|setting
+363|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|SM141203|1644|Kalkulus I|setting
+364|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|IG141101|1649|Pendidikan Agama Islam|setting
+365|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|IG141102|1651|Pendidikan Agama Kristen Protestan|setting
+366|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|IG141103|1652|Pendidikan Agama Katolik|setting
+367|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|IG141104|1653|Pendidikan Agama Hindu|setting
+368|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|IG141105|1655|Pendidikan Agama Budha|setting
+369|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|IG141110|1656|Pendidikan Agama Konghucu|setting
+370|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|IG141106|1657|Wawasan Kebangsaan|setting
+371|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|KI141305|1658|Aljabar Linier|setting
+372|Fakultas Teknologi Industri (FTI)|Teknik Kimia|PIK (2)|1659|Pengantar Industri Kimia|setting
+373|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|KI141306|1660|Organisasi Komputer|setting
+374|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|KI141307|1661|Struktur Data|setting
+375|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|KI141331|1662|Matematika Informatika|setting
+376|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|KI141308-PBO-F|1663|Pemrograman Berorientasi Objek F|setting
+377|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|KI141309|1664|Perancangan dan Analisis Algoritma I Daring Spada|setting
+378|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|KI141310|1665|Probabilitas dan Statistik|setting
+379|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|KI141311|1666|Sistem Basis Data|setting
+380|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|KI141312|1667|Sistem Operasi|setting
+381|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|KI141313|1668|Teori Graf|setting
+382|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|KI141314|1669|Jaringan Komputer|setting
+383|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|KI141315|1670|Kecerdasan Buatan|setting
+384|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|KI141316|1671|Manajemen Basis Data|setting
+385|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|KI141317|1672|Otomata|setting
+386|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|KI141318|1673|Pemrograman Web|setting
+387|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|KI141320|1675|Analisis dan Perancangan Sistem Informasi|setting
+388|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|KI141321|1676|Grafika Komputer C|setting
+389|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|KI141322|1677|Kecerdasan Komputasional|setting
+390|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|KI141323|1678|Komputasi Numerik|setting
+391|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|KI141324|1679|Pemrograman Jaringan|setting
+392|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|KI141325|1680|Perancangan Perangkat Lunak|setting
+393|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|KI141327|1682|Keamanan Informasi dan Jaringan|setting
+394|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|KI141328|1683|Rekayasa Kebutuhan Kelas E (2018)|setting
+395|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|KI141329|1684|Manajemen Proyek Perangkat Lunak|setting
+396|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|KI141330|1685|Kerja Praktik|setting
+397|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|IG141109|1686|Technopreneurship|setting
+398|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|KI141501|1687|Proposal Tugas Akhir|setting
+399|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|IG141107|1688|Wawasan Teknologi dan Komunikasi Ilmiah|setting
+400|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|KI141502|1689|Tugas Akhir|setting
+401|Fakultas Ilmu Alam (FIA)|Biologi|LAGI|1694|UJI COBA|setting
+402|Fakultas Teknologi Kelautan (FTK)|Teknik Kelautan|MEKBAN|1695|MEKANIKA BAHAN|setting
+403|Fakultas Teknologi Kelautan (FTK)|Teknik Perkapalan|DK1-Septia|1724|Tugas Desain Kapal I (Septia Hardy S.)|setting
+404|Fakultas Teknologi Kelautan (FTK)|Teknik Perkapalan|DK2-Septia|1725|Tugas Desain Kapal II (Septia Hardy S.)|setting
+405|Fakultas Teknologi Industri (FTI)|Teknik Fisika|OPTIKA|1731|TF 141344 OPTIKA|setting
+406|Fakultas Teknologi Industri (FTI)|Teknik Fisika|5S|1733|5S Awareness Training|setting
+407|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Form TA|1747|Form Pendaftaran Sidang Tugas Akhir|setting
+408|Fakultas Teknologi Industri (FTI)|Teknik Material dan Metalurgi|TL184839|1749|TL184839 Material Bio|setting
+409|Fakultas Teknologi Industri (FTI)|Teknik Material dan Metalurgi|TL141366|1750|TL141366 Material Polimer|setting
+410|Fakultas Teknologi Industri (FTI)|Teknik Material dan Metalurgi|TL141332|1751|TL141332 Perilaku Mekanik Material|setting
+411|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|RKL|1844|Topik Dalam Rekayasa Kebutuhan (2018)|setting
+412|Fakultas Teknologi Industri (FTI)|Teknik Kimia|TRKC2|1846|Teknik Reaksi Kimia II kelas C2|setting
+413|Fakultas Teknologi Industri (FTI)|Teknik Kimia|DAIKA3|1847|Desain Alat Industri Kimia kelas A3|setting
+414|Fakultas Teknologi Industri (FTI)|Teknik Kimia|ATKI|1848|Azas Teknik Kimia I kelas|setting
+415|Fakultas Teknologi Industri (FTI)|Teknik Kimia|ATKII|1849|Azas Teknik Kimia II kelas D|setting
+416|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|RKKE|1850|Rekayasa Kebutuhan Kelas E|setting
+417|Fakultas Teknologi Industri (FTI)|Teknik Kimia|Teknologi Aerosol|1854|Teknologi Aerosol|setting
+418|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|AdPKB|1856|Algoritma dan Pemrograman Komputer B|setting
+419|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|AdPKC|1857|Algoritma dan Pemrograman Komputer C|setting
+420|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1414082014|1867|KS141408 - Teknologi Open-Source dan Terbaru|setting
+421|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|AdPA|1869|Algoritma dan Pemrograman (Kelas A)|setting
+422|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Marin Optik|1870|RG141453 - Marin Optik|setting
+423|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Komputasi Spasial - LMJ|1871|RG141207 - Komputasi Spasial - LMJ|setting
+424|Fakultas Teknologi Industri (FTI)|Teknik Kimia|TK141222|1875|Kimia Organik I kelas D|setting
+425|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Konversi Data Spasial|1878|RG142414 - Konversi Data Spasial|setting
+426|Fakultas Teknologi Kelautan (FTK)|Teknik Kelautan|MO141205|1883|Fisika Kelautan|setting
+427|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Pengukuran Kinerja dan Evaluasi TI_1|1889|KS141322 - Pengukuran Kinerja dan Evaluasi TI copy 1|setting
+428|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|SFB-2|1892|Sistem Fungsinal Bisnis 2|setting
+429|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|S|1893|Statistika|setting
+430|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|MRTI-2|1895|Manajemen Risiko TI|setting
+431|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|PETI|1896|Pemantauan dan Evaluasi TI|setting
+432|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|PPL|1898|Perancangan Perangkat Lunak (PPL)|setting
+433|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|PAA-PDITT|1899|Perancangan dan Analisis Algoritma (PAA)|setting
+434|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Teknologi Informasi|1900|Teknologi Informasi - PDITT|setting
+435|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|Mektek Terapan|1902|RC14-1341 - Applied Engineering Mechanics|setting
+436|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|TID|1906|RC14-1356 - Drainage and Irrigation System and Structures|setting
+437|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|PBA|1908|RC14-1364 - Water Building Construction Planning + Assignment|setting
+438|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|TSP|1909|RC14-1365 - Coastal and River Engineering|setting
+439|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|Mekflu-Hidrolika|1910|RC14-1337 - Fluid Mechanics and Hydraulics + Lab Work|setting
+440|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|PAK|1911|RC14-1313 - Computer Programming and Application|setting
+441|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|MBS|1912|RC14-1321 - Civil Engineering Drawing + Assignment|setting
+442|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|CMT|1913|RC14-1323 - Concrete and Material Technology + Lab Work|setting
+443|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|MPK|1914|RC14-1324 - Construction Management|setting
+444|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|Mektek 1|1915|RC14-1311 - Statically-Determinate Structure|setting
+445|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|LS|1916|RC14-1312 - Land Surveying|setting
+446|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|STS|1917|RC14-1332 - Statistic for Civil Engineering|setting
+447|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|SIS|1918|RC14-1333 - Statically Indeterminate Structure|setting
+448|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|CS 1|1919|RC14-1334 - Concrete Structure 1|setting
+449|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RLL|1920|RC14-1335 - Traffic Engineering|setting
+450|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|SKFP|1921|RC14-1336 - Project Financial Feasibility Study + Assignment|setting
+451|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|ESS|1922|RC14-1342 - Elements of Steel Structures|setting
+452|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|CS 2|1923|RC14-1343 - Concrete Structure 2|setting
+453|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|Mektan|1924|RC14-1344 - Soil Mechanics and Foundations|setting
+454|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|PPPK|1925|RC14-1345 - Time and Cost Planning Of Construction Project|setting
+455|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|GJR|1926|RC14-1346 - Highway and Railway Geometrics|setting
+456|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|Hidrolgi|1927|RC14-1347 - Hydrology|setting
+457|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|CAD + Plaxis|1928|RC14-1351 - Software for Civil Engineering (CAD + Plaxis)|setting
+458|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|CBS|1929|RC14-1352 - Concrete Building Structures + Assignment|setting
+459|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|SBS|1930|RC14-1353 - Steel Building Structures + Assignment|setting
+460|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|EERS|1931|RC14-1354 - Embankment and Earth-Retaining Structures|setting
+461|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|TPM|1932|RC14-1355 - Transportation Planning and Modeling|setting
+462|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|PPJ|1933|RC14-1363 - Highway Pavement Design + Lab Work|setting
+464|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|PSUTS|1935|RC14-1361 - Modeling of System for Civil Engineering|setting
+465|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|SITC|1936|IG14-1107 - Scientific information technology and communication|setting
+466|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|MTKons|1937|RC14-1372 - Construction Method and Equipment|setting
+467|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|AP|1938|RC14-1373 - Airport Planning|setting
+468|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|HP|1939|RC14-1374 - Harbor Planning|setting
+469|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Pemetaan Teristris Dasar - EYH|1940|RG141306 - Pemetaan Teristris Dasar - EYH|setting
+470|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Survei Hidrografi - CBP|1941|RG141332 - Survei Hidrografi - CBP|setting
+471|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Survei Rekayasa - YWO|1942|RG141318 - Survei Rekayasa - YWO|setting
+472|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Pemetaan Teristris Lanjut|1943|RG141311 - Pemetaan Teristris Lanjut|setting
+473|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Pemetaaan Batas Wilayah|1944|RG141459 - Pemetaaan Batas Wilayah|setting
+474|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|RM184624 - AdPert - ABC&UWD|1945|RM184624 - Administrasi Pertanahan - ABC & UWD|setting
+475|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Ilmu Kebumian|1946|RG141204 - Ilmu Kebumian|setting
+476|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|RG141214 - MatGe - HHT|1947|RG141214 - Matematika Geodesi - HHT|setting
+477|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Toponimi|1948|RG141315 - Toponimi|setting
+478|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|35100RM1845202018B|1949|RM184520 - Fotogrametri Digital|setting
+479|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Jaring Kontrol Geodesi (Kelas B)|1950|RG141326 - Jaring Kontrol Geodesi (Kelas B)|setting
+480|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Penginderaan Jauh|1951|RG141324 - Penginderaan Jauh|setting
+481|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Survei Sistem Satelit Navigasi Global|1952|RG141325 - Survei Sistem Satelit Navigasi Global|setting
+482|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Astronomi Geodesi|1953|RG141437 - Astronomi Geodesi|setting
+483|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Fitur Dasar Laut|1954|RG141451 - Fitur Dasar Laut|setting
+484|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Hiperspektral|1955|RG141446 - Hiperspektral|setting
+485|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Pengelolaan Wilayah Pesisir dan Laut|1956|RG141450 - Pengelolaan Wilayah Pesisir dan Laut|setting
+486|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Teknologi Kebumian - KHM|1957|RG141208 - Teknologi Kebumian - KHM|setting
+487|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Penilaian Tanah|1985|RG141461 - Penilaian Tanah|setting
+488|Fakultas Ilmu Alam (FIA)|Kimia|BioLan|2016|SK142332 - Biokimia Lanjut|setting
+489|Program Pasca Sarjana (PPS)|Program S1 Teknik Elektro|TE23456|2017|TE23456 Rangkaian Elektronika|setting
+490|Fakultas Ilmu Alam (FIA)|Kimia|SK142331|2018|SK142331 - Bioinformatika|setting
+491|UPT Penyelenggara Mata Kuliah Sosial Humaniora|none|wasbang 1|2028|Wawasan Kebangsaan 1|setting
+492|Program Pasca Sarjana (PPS)|Program S1 Teknik Elektro|TE23456_1|2032|TE23456 Rangkaian Elektronika Backup copy 1|setting
+493|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141311 A|2034|RE141311 Kimia Lingkungan I A|setting
+494|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141333 A|2037|RE141333 Teknik Analisis Pencemar Lingkungan A|setting
+495|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141334 A|2038|RE141334 Mekanika Tanah dan Geohidrologi A|setting
+496|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|?RE141353 B|2041|RE141353 Sistem Penyediaan Air Minum B|setting
+497|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141356 A|2042|RE141356 Manajemen Proyek A|setting
+498|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141356 B|2043|RE141356 Manajemen Proyek B|setting
+499|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141371 B|2045|RE141371 Pengelolaan Limbah B3 B|setting
+500|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141342 A|2051|RE141342 Perencanaan Struktur A|setting
+501|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141351 A|2052|RE141351 Pengendalian Emisi dan Ambien A|setting
+502|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141342 B|2055|RE141342 Perencanaan Struktur B|setting
+503|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141342 C|2056|RE141342 Perencanaan Struktur C|setting
+504|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141334 B|2057|RE141334 Mekanika Tanah dan Geohidrologi B|setting
+505|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141333 B|2058|RE141333 Teknik Analisis Pencemar Lingkungan B|setting
+506|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141333 C|2059|RE141333 Teknik Analisis Pencemar Lingkungan Q|setting
+507|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141351 B|2060|RE141351 Pengendalian Emisi dan Ambien Q|setting
+508|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141351 C|2061|RE141351 Pengendalian Emisi dan Ambien C|setting
+509|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141353 A|2062|RE141353 Sistem Penyediaan Air Minum A|setting
+510|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141332 A|2063|RE141332 Hidrolika A|setting
+511|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141332 B|2064|RE141332 Hidrolika B|setting
+512|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141332 C|2065|RE141332 Hidrolika C|setting
+513|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141353 C|2075|RE141353 Sistem Penyediaan Air Minum C|setting
+514|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141307|2076|RE141307 Ekonomi Lingkungan|setting
+515|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141310|2078|RE141310 Pemberdayaan Masyarakat|setting
+516|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141311 B|2082|RE141311 Kimia Lingkungan I B|setting
+517|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141311 Q|2083|RE141311 Kimia Lingkungan I Q|setting
+518|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141311 D|2084|RE141311 Kimia Lingkungan I D|setting
+519|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141331 A|2085|RE141331 Perpetaan A|setting
+520|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE142211|2088|RE142211 Pengendalian Pencemaran Lingkungan|setting
+521|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE142212|2089|RE142212 Pengelolaan Sumberdaya Air dan Lingkungan|setting
+522|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE142311|2090|RE142311 Operasi dan Proses Pengolahan Air|setting
+523|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE142331|2091|RE142331Operasi dan Proses Remediasi Lingkungan|setting
+524|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE144416 S2|2092|RE144416 Inventarisasi Emisi|setting
+525|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE142414|2093|RE142414 Sistem Pengendalian Pencemaran Udara|setting
+526|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE142417|2094|RE142417 Ekohidrologi|setting
+527|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE144411|2095|RE144411 Teknologi Pengolahan Lindi|setting
+528|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE142412|2096|RE142412 Teknologi Pengolahan Lumpur|setting
+529|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE142241|2097|RE142241 Pengantar Teknik Sanitasi Lingkungan|setting
+530|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE142343|2098|RE142343 Evaluasi Kelayakan Sektor Air Minum|setting
+531|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE142344|2099|RE142344 Evaluasi Kelayakan Sektor Air Limbah|setting
+532|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE142345|2100|RE142345 Evaluasi Kelayakan Sektor Persampahan|setting
+533|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE142346|2101|RE142346 Evaluasi Kelayakan Sektor Drainase|setting
+534|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE142342|2103|RE142342 Strategi Pembangunan Sektoral|setting
+535|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE142341|2104|RE142341 Analisis Rencana Induk Sistem|setting
+536|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE142347|2105|RE142347 Penyusunan Rencana Pembangunan Prasarana Lingkungan Permukiman (Studio)|setting
+537|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE142242|2106|RE142242 Analisis Kebijakan Spasial|setting
+538|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141334 C|2110|RE141334 Mekanika Tanah dan Geohidrologi Q|setting
+539|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141331 B|2111|RE141331 Perpetaan B|setting
+540|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141354 C|2112|RE141354 Sistem Penyaluan Air Limbah C|setting
+541|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141354 B|2113|RE141354 Sistem Penyaluan Air Limbah B|setting
+542|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141354 A|2114|RE141354 Sistem Penyaluan Air Limbah A|setting
+543|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141356 C|2115|RE141356 Manajemen Proyek C|setting
+544|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE143401|2116|RE143401 Penulisan Ilmiah dan Publikasi Internasional|setting
+545|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE143311|2117|RE143311 Operasi dan Proses Teknik Lingkungan|setting
+546|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE143211|2118|RE143211 Disain Riset Doktoral|setting
+547|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE148403|2119|RE148403 Perpindahan Pencemar Multi-fase|setting
+548|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE148402|2120|RE148402 Penyisihan Nutrien secara Biologis|setting
+549|Fakultas Teknologi Industri (FTI)|Teknik Fisika|MFD|2121|TF 141322 MEKANIKA FLUIDA|setting
+550|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF141211|2123|TF 141211 MATEMATIKA I|setting
+551|Fakultas Teknologi Industri (FTI)|Teknik Mesin|TM141473|2127|PROSES PERMESINAN (S2)|setting
+552|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|I141309|2169|Perancangan dan Analisis Algoritma I (D)|setting
+553|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Pasang Surut Air Laut|2171|RG141452 - Pasang Surut Air Laut|setting
+554|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Sistem Informasi Geografis Lanjut|2174|RG142306 - Sistem Informasi Geografis Lanjut|setting
+555|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Pengolahan Citra Resolusi Tinggi|2175|RG142416 - Pengolahan Citra Resolusi Tinggi|setting
+556|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF-141371|2197|TF 141371 DESAIN INSTRUMENTASI|setting
+557|Fakultas Teknologi Kelautan (FTK)|Teknik Kelautan|MO141200|2198|Kimia Rekayasa|setting
+558|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|KI141325A|2208|Perancangan Perangkat Lunak 2017|setting
+559|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|KI142303|2209|Software Engineering 2017|setting
+560|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|KI142303B|2210|Rekayasa Perangkat Lunak (B)|setting
+561|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Infrastruktur Informasi Geospasial|2211|RG141448 - Infrastruktur Informasi Geospasial|setting
+562|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF 141233|2215|TF 141233 FENOMENA GELOMBANG C|setting
+563|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF141351|2216|TF 141351 SINYAL SISTEM|setting
+564|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Geodesi Lingkungan|2222|RG141466 - Geodesi Lingkungan|setting
+565|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Metodologi Penelitian (S1)|2225|RG141234 - Metodologi Penelitian|setting
+566|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|35100RG1412012014A|2226|RG141201 - Matriks, Ruang dan Vektor - YBO|setting
+567|Fakultas Teknologi Industri (FTI)|Teknik Mesin|MPKI|2235|Metode Penelitian dan Komunikasi Ilmiah|setting
+568|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Sistem Koordinat dan Transformasi (Kelas B)|2288|RG141327 - Sistem Koordinat dan Transformasi (Kelas B)|setting
+569|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Sistem Basis Data - YBO|2289|RG141312 - Sistem Basis Data - YBO|setting
+570|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|proposal TA|2291|Form Pendaftaran Proposal Tugas Akhir|setting
+571|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Form Seminar TA|2295|Form Pendaftaran Seminar Tugas Akhir|setting
+572|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Metodologi Penelitian - YBO|2299|RG 141234 - Metodologi Penelitian - YBO|setting
+573|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Pemetaan Partisipatif|2301|RG141441 - Pemetaan Partisipatif|setting
+574|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|RG0141213|2302|RG141217 - Statistika Kelas A|setting
+575|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Kadaster - YBO|2303|RG141309 - Kadaster - YBO|setting
+576|Fakultas Teknologi Industri (FTI)|Teknik Material dan Metalurgi|27100TL1413312014A|2304|TL141331 Dasar Pemrograman Komputer (A)|setting
+577|Fakultas Teknologi Industri (FTI)|Teknik Material dan Metalurgi|27100TL1412172014Q|2305|TL141217 Kimia Dasar (Q)|setting
+578|Fakultas Teknologi Industri (FTI)|Teknik Material dan Metalurgi|27100TL1413372014B|2306|TL141337 Pesawat Tenaga (B)|setting
+579|Fakultas Teknologi Industri (FTI)|Teknik Industri|27100TI1412032014C|2307|TI141203 Pengetahuan Bahan Teknik (C)|setting
+580|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Pemetaan Teristris Lanjut - DGP|2308|RG141311 - Pemetaan Teristris Lanjut - DGP|setting
+581|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Kemah Kerja|2309|RG141328 - Kemah Kerja|setting
+582|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Metodologi Penelitian - DGP (Kelas A)|2358|RG141234 - Metodologi Penelitian - DGP (Kelas A)|setting
+583|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|DMPB|2406|DMPB|setting
+584|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|IT Scorecard|2407|IT Scorecard|setting
+585|Fakultas Teknologi Industri (FTI)|Teknik Fisika|24100TF1413532014__|2619|TF141353 GETARAN|setting
+586|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1412052014A|2622|KS141205 - Algoritma dan Struktur Data A|setting
+587|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1412052014C|2624|KS141205 - Algoritma dan Struktur Data C|setting
+588|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1412052014D|2625|KS141205 - Algoritma dan Struktur Data D|setting
+589|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1413252014A|2626|KS141325 - Etika Profesi SI A|setting
+590|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1413252014Q|2628|KS141325 - Etika Profesi SI Q|setting
+591|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1412092014B|2630|KS141209 - Statistika B|setting
+592|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1413232014_|2637|KS141323 - Pengukuran Kinerja dan Evaluasi TI|setting
+593|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1412072014A|2641|KS141207 - Arsitektur SI/TI Perusahaan A|setting
+594|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1412072014B|2642|KS141207 - Arsitektur SI/TI Perusahaan B|setting
+595|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1412072014C|2643|KS141207 - Arsitektur SI/TI Perusahaan C|setting
+596|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1412072014D|2645|KS141207 - Arsitektur SI/TI Perusahaan D|setting
+597|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1413172014_|2653|KS141317 - Tata Kelola TI|setting
+598|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1413062014A|2654|KS141306 - Analisis dan Desain Perangkat Lunak A|setting
+599|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1413062014B|2655|KS141306 - Analisis dan Desain Perangkat Lunak B|setting
+600|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1413062014C|2657|KS141306 - Analisis dan Desain Perangkat Lunak C|setting
+601|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1413062014D|2658|KS141306 - Analisis dan Desain Perangkat Lunak D|setting
+602|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1413072014A|2661|KS141307 - Interaksi Manusia dan Komputer A|setting
+603|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1413182014A|2662|KS141318 - Manajemen Resiko TI A|setting
+604|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1413072014B|2663|KS141307 - Interaksi Manusia dan Komputer B|setting
+605|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1413072014C|2664|KS141307 - Interaksi Manusia dan Komputer C|setting
+606|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1413182014B|2665|KS141318 - Manajemen Resiko TI B|setting
+607|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1413072014D|2666|KS141307 - Interaksi Manusia dan Komputer D|setting
+608|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1413182014D|2669|KS141318 - Manajemen Resiko TI D|setting
+609|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1413182014C|2670|KS141318 - Manajemen Resiko TI C|setting
+610|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1413192014B|2671|KS141319 - Manajemen Pengadaan dan Investasi TI B|setting
+611|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1413192014A|2673|KS141319 - Manajemen Pengadaan dan Investasi TI A|setting
+612|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1413092014A|2681|KS141309 - Desain Basis Data A|setting
+613|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1413092014B|2683|KS141309 - Desain Basis Data B|setting
+614|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1413092014C|2685|KS141309 - Desain Basis Data C|setting
+615|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1413202014D|2686|KS141320 - Manajemen Rantai Pasok dan Hubungan Pelanggan C&D|setting
+616|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1413092014D|2687|KS141309 - Desain Basis Data D|setting
+617|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1413102014B|2693|KS141310 - Pemrograman Berbasis Web B|setting
+618|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1413222014C|2702|KS141322 - Sistem Cerdas C|setting
+619|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1412102014A|2705|KS141210 - Tata Tulis Ilmiah A|setting
+620|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1412102014B|2706|KS141210 - Tata Tulis Ilmiah B|setting
+621|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1412102014C|2707|KS141210 - Tata Tulis Ilmiah C|setting
+622|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1412102014D|2708|KS141210 - Tata Tulis Ilmiah D|setting
+623|Fakultas Teknologi Industri (FTI)|Teknik Fisika|24100TF1412412014_|2711|TF141221 MATEMATIKA II|setting
+624|Fakultas Teknologi Industri (FTI)|Teknik Fisika|PEMETAAN POTENSI ENERGI|2717|PEMETAAN POTENSI ENERGI|setting
+625|Fakultas Teknologi Industri (FTI)|Teknik Fisika|SISTEM DISTRIBUSI ENERGI|2718|SISTEM DISTRIBUSI ENERGI|setting
+626|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TEKNIK KONVERSI ENERGI|2719|TEKNIK KONVERSI ENERGI|setting
+627|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1413202014AB|2721|KS141320 - Manajemen Rantai Pasok dan Hubungan Pelanggan A&B|setting
+628|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|DMS1|2723|Data Mining|setting
+629|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|TDVKS2|2724|Topik dalam Visi Komputer S2|setting
+630|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI1204|2725|Algoritma dan Pemrogaman Komputer (A)|setting
+631|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI1204D|2726|Algoritma dan Pemrogaman Komputer (D)|setting
+632|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|RKA|2727|Rekayasa Kebutuhan (2018)|setting
+633|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|RKE|2728|Rekayasa Kebutuhan kelas E (2017)|setting
+634|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|RKLL|2729|Rekayasa Kebutuhan Lanjut 2018|setting
+635|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Survei Hidrografi - DGP|2731|RG141332 - Survei Hidrografi - DGP|setting
+636|Fakultas Teknologi Industri (FTI)|Teknik Industri|APK|2734|TI141204 Algoritma dan Pemrogaman Komputer 3 C|setting
+637|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Manajemen Survei dan Pemetaan - YBO|2735|RG141331 - Manajemen Survei dan Pemetaan - YBO|setting
+638|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Pemetaan Pertambangan - YBO|2736|RG141329 - Pemetaan Pertambangan - YBO|setting
+639|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE142322|2739|RE142322 Teknologi Pengolahan Gas Buang dan Partikulat|setting
+640|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Oseanografi Fisik - DGP|2740|RG141322 - Oseanografi Fisik - DGP|setting
+641|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Survei Rekayasa - YBO|2741|RG141318 - Survei Rekayasa - YBO|setting
+642|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Proyeksi Peta - DGP|2742|RG141321 - Proyeksi Peta - DGP|setting
+643|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Sistem Informasi Geografis - YBO|2743|RG141314 - Sistem Informasi Geografis - YBO|setting
+644|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE144424|2744|Teknologi Membran|setting
+645|Fakultas Teknologi Industri (FTI)|Teknik Kimia|TK141481_|2745|TK141481 PENGOLAHAN LIMBAH INDUSTRI & B3|setting
+646|Fakultas Teknologi Industri (FTI)|Teknik Kimia|TK141241D|2746|TK141241 - Mikrobiologi Industri (C)|setting
+647|Fakultas Teknologi Industri (FTI)|Teknik Kimia|TK141222C|2747|TK141222 - Kimia Organik I (A)|setting
+648|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141322A|2748|RE141322A-Menggambar Teknik Kelas A|setting
+649|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141221A|2751|RE141221A-Matematika Rekayasa Kelas A|setting
+650|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141222A|2754|RE141222A-Mikrobiologi Lingkungan Kelas A|setting
+651|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141344A|2755|RE141344A-Unit Proses Teknik Lingkungan Kelas A|setting
+652|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141335A|2757|RE141335A-Unit Operasi Teknik Lingkungan Kelas A|setting
+653|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141341A|2758|RE141341A-Pengelolaan Sumber Daya Air Kelas A|setting
+654|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141345A|2759|RE141345A-Pencemaran Udara Kelas A|setting
+655|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141363A|2761|RE141363A-Perencanaan Bangunan Pengolahan Air Minum Kelas A|setting
+656|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141364A|2762|RE141364A-Perencanaan Bangunan Pengolahan Air Limbah Setempat Kelas A|setting
+657|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141362A|2763|RE141362A-Pengelolaan Sampah Kelas A|setting
+658|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141361|2764|RE141361 Metodologi Penelitian|setting
+659|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141381A|2765|RE141381A-Kesehatan dan Keselamatan Kerja Kelas A|setting
+660|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141403|2766|RE141403 Sistem Manajemen Lingkungan|setting
+661|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141401|2767|RE141401 Plumbing dan Pompa|setting
+662|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141404|2768|RE141404 Audit Lingkungan|setting
+663|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141406|2769|RE141406 Fitoteknologi|setting
+664|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141412|2770|RE141412 Pengelolaan Sumber Daya Lahan|setting
+665|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141411|2771|RE141411 Penyediaan Air Minum Berbasis Masyarakat|setting
+666|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141402|2772|RE141402 Pengelolaan Limbah Industri|setting
+667|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141409|2773|RE141409 Manajemen Lingkungan Kota|setting
+668|Fakultas Teknologi Industri (FTI)|Teknik Kimia|TL|2775|Teknologi Lipida|setting
+669|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Kartografi Digital - YBO|2778|RG141316 - Kartografi Digital - YBO|setting
+670|Fakultas Teknologi Industri (FTI)|Teknik Fisika|KOMPRE|2785|UJIAN KOMPREHENSIF S1 TEKNIK FISIKA|setting
+671|Fakultas Teknologi Industri (FTI)|Teknik Kimia|OPM|2786|Optimasi Proses Migas|setting
+672|Fakultas Teknologi Kelautan (FTK)|Teknik Sistem Perkapalan|ME184101-DD|2787|ME184101-ENGINEERING DRAWING & CAD|setting
+673|Fakultas Teknologi Industri (FTI)|Teknik Kimia|TK 141223|2788|MK. KIMIA ANALISA (C)|setting
+674|Fakultas Teknologi Kelautan (FTK)|Teknik Sistem Perkapalan|ME141304|2789|TEORI BANGUNAN KAPAL DAN KONSTRUKSI 2|setting
+675|Fakultas Teknologi Kelautan (FTK)|Teknik Sistem Perkapalan|MEKFLU|2790|MEKANIKA FLUIDA|setting
+676|Fakultas Ilmu Alam (FIA)|Biologi|SB141433|2793|ENTOMOLOGI|setting
+677|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Riset Operasi PDITT|2821|Riset Operasi PDITT|setting
+678|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|APLIKOM|2823|Pemrograman dan Aplikasi Komputer|setting
+679|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|35100RM1849502018_|2826|RM184950 - Fotogrametri Jarak Dekat|setting
+680|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|MarinOptik|2827|RG141453 Marin Optik|setting
+681|Program Pasca Sarjana (PPS)|Magister Arsitektur|TArs|2828|Teori Arsitektur|setting
+682|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1412092014A|2842|KS141209 - Statistika A|setting
+683|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1412042014|2851|KS141204 - Bahasa Pemrograman|setting
+684|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1412052014B|2852|KS141205 - Algoritma dan Struktur Data B|setting
+685|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1413082014|2869|KS141308 - Keamanan Aset Informasi|setting
+686|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1413112014|2870|KS141311 - Konstruksi dan Pengujian Perangkat Lunak|setting
+687|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1413122014D|2876|KS141312 - Manajemen Proyek TI D|setting
+688|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE 141404|2878|RE141404 Model Dispersi Pencemaran Udara|setting
+689|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141355 A|2884|Sistem Drainase Perkotaan A|setting
+690|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141355 B|2885|Sistem Drainase Perkotaan B|setting
+691|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141355 C|2887|Sistem Drainase Perkotaan C|setting
+692|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RancPene|2892|Rancangan Penelitian|setting
+693|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|TekPSB3|2893|Teknologi Pengolahan Sampah dan Limbah B3|setting
+694|Fakultas Teknologi Industri (FTI)|Teknik Mesin|TM142302|2899|Metode Elemen Hingga|setting
+695|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1414012014B|2911|KS141401 - Sistem Pendukung Keputusan B|setting
+696|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1414022014|2912|KS141402 - Penggalian Data dan Anallitika Bisnis|setting
+697|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|PPLE|2915|Perancangan Perangkat Lunak Kelas E|setting
+698|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE144415 S2|2916|Teknologi Pengolahan Limbah Industri|setting
+699|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE142413 S2|2917|Pemodelan Kualitas Udara|setting
+700|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|Pilihan Gnp ASOp|2918|Analisa Sistem dan Optimasi|setting
+701|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|Pilihan Gnp EkoLing|2919|Ekotoksikologi Lingkungan|setting
+702|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|Pilihan Gnp Pemodelan|2920|Pemodelan Teknik Lingkungan|setting
+703|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|Pilihan Gnp AdaptMitigasi|2921|Adaptasi dan Mitigasi Perubahan Iklim|setting
+704|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|Pilihan Gnp RemTambang|2922|Remediasi Lahan Tambang|setting
+705|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE142347 S2 TSL|2923|Evaluasi Kelayakan Non Teknik Pembangunan Sektoral|setting
+706|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE142243|2924|Metodologi Penelitian dan Proposal Tesis|setting
+707|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|KS142304|2925|KS142304 - Sistem Manajemen Basis Data (GASAL - 2017/2018)|setting
+708|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Open Talk TA|2929|Open Talk Tugas Akhir|setting
+709|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Jadwal TA|2930|Jadwal Kegiatan Tugas Akhir|setting
+710|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|RG141214 - MatGe|2931|RG141214 - Matematika Geodesi - YBO|setting
+711|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|STKI|2932|Sistem Temu Kembali Informasi|setting
+712|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|TDSTKI|2933|Topik Dalam Sistem Temu Kembali Informasi|setting
+713|Fakultas Teknologi Industri (FTI)|Teknik Kimia|KNT|2934|Komputasi Numerik Terapan|setting
+714|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|IUT-Sipil|2937|Ilmu Ukur Tanah - Teknik Sipil - YBO|setting
+715|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141344-Matrikulasi|2938|RE141344 Unit Proses Teknik Lingkungan|setting
+716|Fakultas Teknologi Industri (FTI)|Teknik Material dan Metalurgi|27100TL1412142014Q|2939|TL141214 Fisika Dasar Q|setting
+717|Fakultas Teknologi Industri (FTI)|Teknik Material dan Metalurgi|27100TL1413532014B|2940|TL141353 Karakterisasi Material (B)|setting
+718|Fakultas Teknologi Industri (FTI)|Teknik Kimia|KOII|2942|KIMIA ORGANIK II|setting
+719|Fakultas Teknologi Industri (FTI)|Teknik Kimia|SUP|2943|Sistem Utilitas Pabrik|setting
+720|Fakultas Teknologi Industri (FTI)|Teknik Kimia|PPU-2018|2944|Pengendalian Pencemaran Udara|setting
+721|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF142305|2964|TEKNIK DESAIN|setting
+722|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF142307|2965|TEKNOLOGI SENSOR TRANSMITER|setting
+723|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF195202|2966|OPTIMASI SISTEM|setting
+724|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF142432|2967|KONTROL PREDIKTIF|setting
+725|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF142434|2969|KECERDASAN BUATAN UNTUK SISTEM INSTRUMEN|setting
+726|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF142435|2970|SISTEM KONTROL PROSES LANJUT|setting
+727|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF142436|2971|INSTRUMENTASI PROSES LANJUT|setting
+728|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF195203|2972|PEMROSESAN SINYAL|setting
+729|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF195|2973|MONITORING GETARAN|setting
+730|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF195S11|2974|KESELAMATAN|setting
+731|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF142441|2975|SENSOR FOTONIK|setting
+732|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF195332|2977|METROLOGI OPTIK LANJUT|setting
+733|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF142444|2978|KOMUNIKASI DATA OPTIS|setting
+734|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF195334|2979|OPTIKA KUANTUM|setting
+735|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF195431|2980|MATERIAL FOTONIK UNTUK ENERGI TERBARUKAN|setting
+736|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF195333|2981|PIRANTI FOTONIK|setting
+737|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF142448|2982|PENCITRAAN OPTIK|setting
+738|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF142449|2983|PENGEMBANGAN SISTEM FOTONIK|setting
+739|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF142453|2986|ASSESMEN TEKNOLOGI KESEHATAN|setting
+740|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF142455|2988|RADIASI DAN PROTEKSI|setting
+741|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF195421|2989|INSTRUMENTASI MEDIS|setting
+742|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF142457|2990|PSIKOAKUSTIK|setting
+743|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF142317|2991|KEBERLANJUTAN DAN KEBIJAKAN ENERGI|setting
+744|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF142319|2992|Kerja Praktek dan Proyek Energi Terbarukan|setting
+745|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF142461|2993|BIOMASA|setting
+746|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF142462|2994|ENERGI AIR|setting
+747|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF142463|2995|ENERGI SURYA|setting
+748|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF142464|2996|ENERGI ANGIN|setting
+749|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF142465|2997|ENERGI PANAS BUMI|setting
+750|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF142466|2998|AUDIT DAN MANAJEMEN ENERGI|setting
+751|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF142467|2999|REDUKSI EMISI|setting
+752|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF142468|3000|KONSERVASI ENERGI|setting
+753|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF142469|3001|SISTEM INDUSTRI ENERGI TERBARUKAN|setting
+754|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|SBD-E|3005|Sistem Basis Data (E)|setting
+755|Fakultas Ilmu Alam (FIA)|Biologi|SB 141301|3019|BIOLOGI UMUM|setting
+756|Fakultas Ilmu Alam (FIA)|Biologi|SB 141201|3020|BIOSTATISTIK|setting
+757|Fakultas Ilmu Alam (FIA)|Biologi|SB 141308|3021|GENETIKA|setting
+758|Fakultas Ilmu Alam (FIA)|Biologi|SB 141310|3022|EVOLUSI|setting
+759|Fakultas Ilmu Alam (FIA)|Biologi|SB 141411|3023|MANAJEMEN TUMBUHAN|setting
+760|Fakultas Ilmu Alam (FIA)|Biologi|SB 141413|3024|FITOHORMON|setting
+761|Fakultas Ilmu Alam (FIA)|Biologi|SB 141415|3025|ALGOLOGY (INTERNATIONAL CLASS)|setting
+762|Fakultas Ilmu Alam (FIA)|Biologi|SB 141417|3026|FISIOLOGI CEKAMAN TUMBUHAN|setting
+763|Fakultas Ilmu Alam (FIA)|Biologi|SB 141419|3027|PESTISIDA NABATI|setting
+764|Fakultas Ilmu Alam (FIA)|Biologi|SB 141423|3028|MIKROTEKNIK|setting
+765|Fakultas Ilmu Alam (FIA)|Biologi|SB 141303|3029|EKOLOGI UMUM|setting
+766|Fakultas Ilmu Alam (FIA)|Biologi|SB 141203|3030|FISIKA DASAR I|setting
+767|Fakultas Ilmu Alam (FIA)|Biologi|SB 141320|3031|STRUKTUR TUMBUUHAN|setting
+768|Fakultas Ilmu Alam (FIA)|Biologi|SB 141330|3032|STRUKTUR HEWAN|setting
+769|Fakultas Ilmu Alam (FIA)|Biologi|SB 141306|3033|BIOLOGI SEL|setting
+770|Fakultas Ilmu Alam (FIA)|Biologi|SB 141321|3034|GENETIKA|setting
+771|Fakultas Ilmu Alam (FIA)|Biologi|SB 141323|3035|SISTEMATIKA TUMBUHAN|setting
+772|Fakultas Ilmu Alam (FIA)|Biologi|SB 141331|3036|PERKEMBANGAN HEWAN|setting
+773|Fakultas Ilmu Alam (FIA)|Biologi|SB 141333|3037|SISTEMATIKA HEWAN|setting
+774|Fakultas Ilmu Alam (FIA)|Biologi|SB 141340|3038|MIKROBIOLOGI|setting
+775|Fakultas Ilmu Alam (FIA)|Biologi|SB 141350|3039|EKOLOGI HEWAN|setting
+776|Fakultas Ilmu Alam (FIA)|Biologi|SB 141352|3040|EKOLOGI TUMBUHAN|setting
+777|Fakultas Ilmu Alam (FIA)|Biologi|SB 141307|3041|BIOLOGI MOLEKULER|setting
+778|Fakultas Ilmu Alam (FIA)|Biologi|SB 141325|3042|FISIOLOGI TUMBUHAN|setting
+779|Fakultas Ilmu Alam (FIA)|Biologi|141335|3043|FISIOLOGI HEWAN|setting
+780|Fakultas Ilmu Alam (FIA)|Biologi|SB 141341|3044|MIKROBIOLOGI LINGKUNGAN|setting
+781|Fakultas Ilmu Alam (FIA)|Biologi|SB 141351|3045|BIOMONITORING|setting
+782|Fakultas Ilmu Alam (FIA)|Biologi|SB 141312|3046|MET PEN & PUB ILMIAH|setting
+783|Fakultas Ilmu Alam (FIA)|Biologi|SB 141314|3047|BIOTEKNOLOGI|setting
+784|Fakultas Ilmu Alam (FIA)|Biologi|SB 141342|3048|FISIOLOGI MIKROBIA|setting
+785|Fakultas Ilmu Alam (FIA)|Biologi|SB 141344|3049|SISTEMATIKA MIKROBIA|setting
+786|Fakultas Ilmu Alam (FIA)|Biologi|SB 141354|3050|PSDA|setting
+787|Fakultas Ilmu Alam (FIA)|Biologi|SB 141343|3051|MIKRO. INDUSTRI|setting
+788|Fakultas Ilmu Alam (FIA)|Biologi|SB 141501|3052|KERJA PRAKTEK|setting
+789|Fakultas Ilmu Alam (FIA)|Biologi|SB 141503|3053|SEMINAR|setting
+790|Fakultas Ilmu Alam (FIA)|Biologi|SB 141510|3054|TUGAS AKHIR|setting
+791|Fakultas Teknologi Industri (FTI)|Teknik Kimia|TK141365|3060|Pengendalian Proses Kelas A|setting
+792|Fakultas Teknologi Industri (FTI)|Teknik Fisika|RPD|3085|Riset Pra Doktoral|setting
+793|Fakultas Teknologi Industri (FTI)|Teknik Fisika|SIL|3086|Sistem Instrumentasi Lanjut|setting
+794|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|Ekotok|3087|Ekotoksikologi|setting
+795|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|MetodRiset|3088|Metodologi Riset|setting
+796|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE 141352C|3089|RE 141352C-Remediasi Badan Air dan Pesisir Kelas C|setting
+797|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1413202014Q|3120|KS141320 - Manajemen Rantai Pasok dan Hubungan Pelanggan Q|setting
+798|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS141403AM|3122|KS141403 - Riset Operasi Lanjut|setting
+799|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|KI141326-C|3123|Interaksi Manusia dan Komputer (C)|setting
+800|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|KI141326-D|3124|Interaksi Manusia dan Komputer (D)|setting
+801|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|KI141319-A|3125|Perancangan dan Analisis Algoritma II (A)|setting
+802|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|KI141319-B|3126|Perancangan dan Analisis Algoritma II (B)|setting
+803|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52200KS1423042018|3132|KS142304 - Sistem Manajemen Basis Data (Genap 2018)|setting
+804|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS141206A|3133|KS141206 - Pengantar Sistem Operasi A|setting
+805|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS141206B|3134|KS141206 - Pengantar Sistem Operasi B|setting
+806|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1412062014A|3135|KS141206 - Pengantar Sistem Operasi C|setting
+807|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1412062014D|3136|KS141206 - Pengantar Sistem Operasi D|setting
+808|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1413102014A|3138|KS141310 - Pemrograman Berbasis Web A|setting
+809|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1413102014D|3139|KS141310 - Pemrograman Berbasis Web D|setting
+810|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141321A|3140|RE141321A-Kimia Lingkungan II Kelas A|setting
+811|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141321B|3141|RE141321B-Kimia Lingkungan II Kelas B|setting
+812|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141321Q|3142|RE141321Q-Kimia Lingkungan II Kelas Q / Environmental Chemistry|setting
+813|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141221B|3143|RE141221B-Matematika Rekayasa Kelas B|setting
+814|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141221C|3144|RE141221C-Matematika Rekayasa Kelas C|setting
+815|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141322B|3145|RE141322B-Menggambar Teknik Kelas B|setting
+816|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141322C|3146|RE141322C-Menggambar Teknik Kelas C|setting
+817|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141222B|3147|RE141222B-Mikrobiologi Lingkungan Kelas B|setting
+818|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141222C|3148|RE141222C-Mikrobiologi Lingkungan Kelas C|setting
+819|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141335B|3149|RE141335B-Unit Operasi Teknik Lingkungan Kelas B|setting
+820|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141335C|3150|RE141335C-Unit Operasi Teknik Lingkungan Kelas C|setting
+821|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141344B|3151|RE141344B-Unit Proses Teknik Lingkungan Kelas B|setting
+822|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141344C|3152|RE141344C-Unit Proses Teknik Lingkungan Kelas C|setting
+823|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141352B|3153|RE141352B-Remediasi Badan Air dan Pesisir Kelas B|setting
+824|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141352A|3154|RE141352A-Remediasi Badan Air dan Pesisir Kelas A|setting
+825|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141345B|3155|RE141345B-Pencemaran Udara Kelas B|setting
+826|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141345Q|3156|RE141345Q-Pencemaran Udara Kelas Q / Air Pollution|setting
+827|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141341B|3157|RE141341B-Pengelolaan Sumber Daya Air Kelas B|setting
+828|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141341Q|3158|RE141341Q-Pengelolaan Sumber Daya Air Kelas Q|setting
+829|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141364B|3159|RE141364B-Perencanaan Bangunan Pengolahan Air Limbah Setempat Kelas B|setting
+830|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141364C|3160|RE141364C-Perencanaan Bangunan Pengolahan Air Limbah Setempat Kelas C|setting
+831|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141363B|3161|RE141363B-Perencanaan Bangunan Pengolahan Air Minum Kelas B|setting
+832|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141363C|3162|RE141363C-Perencanaan Bangunan Pengolahan Air Minum Kelas C|setting
+833|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141362B|3163|RE141362B-Pengelolaan Sampah Kelas B|setting
+834|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141362C|3164|RE141362C-Pengelolaan Sampah Kelas C/Q|setting
+835|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141381B|3165|RE141381B-Kesehatan dan Keselamatan Kerja Kelas B|setting
+836|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RE141381C|3166|RE141381C-Kesehatan dan Keselamatan Kerja Kelas C|setting
+837|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Kompasial - HHT|3168|RM184304 - Komputasi dan Pemrograman Data Spasial - HHT|setting
+838|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Hitung Perataan - EYH|3169|RG141320 - Hitung Perataan - EYH & HHT|setting
+839|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Geodesi Satelit - EYH|3170|RG141319 - Geodesi Satelit - EYH & HHT|setting
+840|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Satelit Altimetri - 2018|3196|RG141454 - Satelit Altimetri - EYH|setting
+841|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|PTD Praktikum - EYH|3197|RG141306 - Pemetaan Terestris Dasar - Praktikum - EYH|setting
+842|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Aplikasi Geodesi Satelit - EYH|3198|RG142303 - Aplikasi Geodesi Satelit - 2018|setting
+843|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Metodologi Penelitian - EYH|3199|RG142208 - Metodologi Penelitian - EYH|setting
+844|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Analisa Deformasi dan Geodinamika - EYH|3200|RG142418 - Analisa Deformasi dan Geodinamika - EYH|setting
+845|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TERMO|3213|TF 141322 TERMODINAMIKA|setting
+846|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Land Administration - YBO|3214|RG141458 - Land Administration - YBO|setting
+847|Fakultas Teknologi Industri (FTI)|Teknik Fisika|PTFISIKA|3217|TF 141311 PENGANTAR TEKNIK FISIKA|setting
+848|Fakultas Teknologi Industri (FTI)|Teknik Fisika|FISTUM|3221|TF 141234 FISIKA KUANTUM|setting
+849|Fakultas Teknologi Industri (FTI)|Teknik Fisika|ELEKTRO|3226|TF 141341 ELEKTRONIKA|setting
+850|Fakultas Teknologi Industri (FTI)|Teknik Fisika|SPK|3227|TF 141342 SISTEM PENGUKURAN DAN KALIBRASI|setting
+851|Fakultas Teknologi Industri (FTI)|Teknik Fisika|FISBAN|3228|TF 141343 FISIKA BAHAN|setting
+852|Fakultas Teknologi Industri (FTI)|Teknik Fisika|PSD|3230|TF 141352 PEMODELAN SISTEM DINAMIK|setting
+853|Fakultas Teknologi Industri (FTI)|Teknik Fisika|PERPANMAS|3232|TF 141354 PERPINDAHAN PANAS DAN MASA|setting
+854|Fakultas Teknologi Industri (FTI)|Teknik Fisika|REKYBAN|3233|TF 141355 REKAYASA BAHAN|setting
+855|Fakultas Teknologi Industri (FTI)|Teknik Industri|mektek Q|3235|TI141206 Mekanika Teknik Q|setting
+856|Fakultas Teknologi Industri (FTI)|Teknik Fisika|SPO|3237|TF 141362 SISTEM PENGENDALIAN OTOMATIK A|setting
+857|Fakultas Teknologi Industri (FTI)|Teknik Fisika|MACER|3240|TF 141365 MATERIAL CERDAS|setting
+858|Fakultas Teknologi Industri (FTI)|Teknik Fisika|SIFON|3241|TF 141366 SISTEM FOTONIKA|setting
+859|Fakultas Teknologi Industri (FTI)|Teknik Fisika|REKTEM|3243|TF 141372 REKAYASA SISTEM KENYAMANAN TERMAL|setting
+860|Fakultas Teknologi Industri (FTI)|Teknik Fisika|KP|3244|TF 141373 KERJA PRAKTEK|setting
+861|Fakultas Teknologi Industri (FTI)|Teknik Fisika|PREUNERSHIP|3245|IG 141109 TECHNOPREUNERSHIP|setting
+862|Fakultas Teknologi Industri (FTI)|Teknik Fisika|IG 141106|3246|IG 141106 WAWASAN KEBANGSAAN|setting
+863|Fakultas Teknologi Industri (FTI)|Teknik Fisika|PA|3247|IG 141101 PENDIDIKAN AGAMA|setting
+864|Fakultas Teknologi Industri (FTI)|Teknik Fisika|SISIN|3248|TF 141381 SISTEM INSTRUMENTASI|setting
+865|Fakultas Teknologi Industri (FTI)|Teknik Fisika|IIN|3251|TF 141402 INSTRUMENTASI INDUSTRI|setting
+866|Fakultas Teknologi Industri (FTI)|Teknik Fisika|SPM|3252|TF 141403 SISTEM PENGENDALIAN MODERN|setting
+867|Fakultas Teknologi Industri (FTI)|Teknik Fisika|INMED|3253|TF 141404 INSTRUMENTASI MEDIS|setting
+868|Fakultas Teknologi Industri (FTI)|Teknik Fisika|DALPRO|3254|TF 141405 PENGENDALIAN PROSES|setting
+869|Fakultas Teknologi Industri (FTI)|Teknik Fisika|JST|3255|TF 141406 JARINGAN SYARAF TIRUAN|setting
+870|Fakultas Teknologi Industri (FTI)|Teknik Fisika|BIOREAKTOR|3257|TF 141408 SISTEM PENGENDALIAN BIOREAKTOR|setting
+871|Fakultas Teknologi Industri (FTI)|Teknik Fisika|PROPEN|3258|TF 141409 PROTEKSI DAN PENGAMANAN|setting
+872|Fakultas Teknologi Industri (FTI)|Teknik Fisika|MENRISK|3259|TF 141410 MANAJEMEN RESIKO|setting
+873|Fakultas Teknologi Industri (FTI)|Teknik Fisika|DAYA LISTRIK|3260|TF 141411 SISTEM KONVERSI DAYA LISTRIK|setting
+874|Fakultas Teknologi Industri (FTI)|Teknik Fisika|AUNEO|3261|TF 141421 AUDITORY NEUROSCIENCE|setting
+875|Fakultas Teknologi Industri (FTI)|Teknik Fisika|VIBRASI|3262|TF 141422 KONTROL VIBRASI|setting
+876|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF 141423|3263|TF 141423 PREDICTIVE MAINTENANCE|setting
+877|Fakultas Teknologi Industri (FTI)|Teknik Fisika|PENCAHAYAAN|3266|TF 141426 PENCAHAYAAN BUATAN|setting
+878|Fakultas Teknologi Industri (FTI)|Teknik Fisika|KOMVIB|3267|141427 KOMPUTASI VIBRASI|setting
+879|Fakultas Teknologi Industri (FTI)|Teknik Fisika|AUDIO|3268|TF 141428 SISTEM AUDIO|setting
+880|Fakultas Teknologi Industri (FTI)|Teknik Fisika|BAWAH AIR|3269|TF 141429 AKUSTIK BAWAH AIR|setting
+881|Fakultas Teknologi Industri (FTI)|Teknik Fisika|AERO|3270|TF 141431 AERODINAMIKA|setting
+882|Fakultas Teknologi Industri (FTI)|Teknik Fisika|EKOENERGI|3271|TF 141432 EKONOMI ENERGI|setting
+883|Fakultas Teknologi Industri (FTI)|Teknik Fisika|EBT|3272|TF 141433 ENERGI BARU TERBARUKAN|setting
+884|Fakultas Teknologi Industri (FTI)|Teknik Fisika|HIDRO|3273|TF 141434 REKAYASA HIDRODINAMIKA|setting
+885|Fakultas Teknologi Industri (FTI)|Teknik Fisika|KDF|3274|TF 141435 KOMPUTASI DINAMIKA FLUIDA|setting
+886|Fakultas Teknologi Industri (FTI)|Teknik Fisika|MANENERGI|3275|TF 141436 MANAJEMEN ENERGI|setting
+887|Fakultas Teknologi Industri (FTI)|Teknik Fisika|MESIN FLUIDA|3276|TF 141437 MESIN-MESIN FLUIDA|setting
+888|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF 141438|3277|TF 141438 REKAYASA ENERGI DI INDUSTRI|setting
+889|Fakultas Teknologi Industri (FTI)|Teknik Fisika|SPE|3278|TF 141439 SISTEM PENYIMPANAN ENERGI|setting
+890|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF 141440|3279|TF 141440 KEBERLANJUTAN ENERGI|setting
+891|Fakultas Teknologi Industri (FTI)|Teknik Fisika|KS. ENERGI|3280|TF 141441 KAPITA SELEKTA ENERGI|setting
+892|Fakultas Teknologi Industri (FTI)|Teknik Fisika|KOROSI|3282|TF 141451 TEKNIK PENGENDALIAN KOROSI|setting
+893|Fakultas Teknologi Industri (FTI)|Teknik Fisika|PROS.MATERIAL|3283|TF 141452 TEKNOLOGI PROSES MATERIAL|setting
+894|Fakultas Teknologi Industri (FTI)|Teknik Fisika|KARAK.MATERIAL|3284|TF 141453 TEKNIK KARAKTERISASI MATERIAL|setting
+895|Fakultas Teknologi Industri (FTI)|Teknik Fisika|DESAIN MATERIAL|3285|TF 141455 SELEKSI DAN DESAIN MATERIAL|setting
+896|Fakultas Teknologi Industri (FTI)|Teknik Fisika|SEMIKONDUKTOR|3286|TF 141456 REKAYASA DIVAIS SEMIKONDUKTOR|setting
+897|Fakultas Teknologi Industri (FTI)|Teknik Fisika|MEK.MATERIAL|3287|TF 141457 MEKANIKA MATERIAL|setting
+898|Fakultas Teknologi Industri (FTI)|Teknik Fisika|MAT.ENERGI|3288|TF 141458 MATERIAL ENERGI|setting
+899|Fakultas Teknologi Industri (FTI)|Teknik Fisika|SUPERKONDUKTOR|3289|TF 141459 BAHAN SUPERKONDUKTOR|setting
+900|Fakultas Teknologi Industri (FTI)|Teknik Fisika|POLIMER|3290|TF 141460 POLIMER DAN KOMPOSIT|setting
+901|Fakultas Teknologi Industri (FTI)|Teknik Fisika|KS.BAHAN|3291|TF 141461 KAPITA SELEKTA BAHAN|setting
+902|Fakultas Teknologi Industri (FTI)|Teknik Fisika|LASER|3292|TF 141471 LASER DI INDUSTRI|setting
+903|Fakultas Teknologi Industri (FTI)|Teknik Fisika|FOT.BIO|3293|TF 141473 FOTONIKA BIOMEDIS|setting
+904|Fakultas Teknologi Industri (FTI)|Teknik Fisika|INSTRUMENTASI OPTIK|3294|TF 141473 NSTRUMENTASI OPTIK|setting
+905|Fakultas Teknologi Industri (FTI)|Teknik Fisika|DIVAIS FOTON|3295|TF 141474 DIVAIS FOTONIKA|setting
+906|Fakultas Teknologi Industri (FTI)|Teknik Fisika|SPEK.OPTIK|3296|TF 141475 SPEKTROSKOPI OPTIK|setting
+907|Fakultas Teknologi Industri (FTI)|Teknik Fisika|SIS.KOM.SER.OP|3297|TF 141476 SISTEM KOMUNIKASI SERAT OPTIK|setting
+908|Fakultas Teknologi Industri (FTI)|Teknik Fisika|IMPROC|3298|TF 141477 IMAGE PROCESSING|setting
+909|Fakultas Teknologi Industri (FTI)|Teknik Fisika|MK PIL 1|3325|TF 141471 MATA KULIAH PILIHAN|setting
+910|Fakultas Teknologi Industri (FTI)|Teknik Fisika|MK PIL 2|3326|TF 141481 MATA KULIAH PILIHAN|setting
+911|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|52100KS1413102014C|3367|KS141310 - Pemrograman Berbasis Web C|setting
+912|Fakultas Teknologi Industri (FTI)|Teknik Mesin|21100TM1423242014A|3368|TM142324 - SISTEM PERC. & PENGENDALIAN MANUFAKTUR A|setting
+913|Fakultas Teknologi Industri (FTI)|Teknik Fisika|RANGKAIAN LISTRIK S1|3369|TF 141322 RANGKAIAN LISTRIK S1|setting
+914|Fakultas Teknologi Industri (FTI)|Teknik Mesin|21100TM1424462014A|3371|TM142446 - ANALISA PENCEMARAN LINGKUNGAN A|setting
+915|Fakultas Teknologi Industri (FTI)|Teknik Kimia|KA|3372|KIMIA ANALISA A|setting
+916|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Form Progress TA|3373|Form Kemajuan Pelaksanaan Tugas Akhir|setting
+917|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Proyeksi Peta - YBO|3374|RG141321 - Proyeksi Peta - YBO|setting
+918|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Teknologi Kebumian - BMS|3375|RG141208 - Teknologi Kebumian - BMS|setting
+919|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Teknologi Kebumian - TGO|3376|RG141208 - Teknologi Kebumian - TGO|setting
+920|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Teknologi Kebumian - MNC|3377|RG141208 - Teknologi Kebumian - MNC|setting
+921|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Teknologi Kebumian - MTF|3378|RG141208 - Teknologi Kebumian - MTF|setting
+922|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Pemetaan Teristris Dasar - YWO|3379|RG141306 - Pemetaan Teristris Dasar - YWO|setting
+923|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Pemetaan Teristris Dasar - DGP|3380|RG141306 - Pemetaan Teristris Dasar - DGP|setting
+924|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Komputasi Spasial - MNC|3381|RG141207 - Komputasi Spasial - MNC|setting
+925|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Komputasi Spasial - CBP|3382|RG141207 - Komputasi Spasial - CBP|setting
+926|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|GM123456 - MKT|3383|Materi Kuliah Tamu|setting
+927|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Proyeksi Peta - BMS|3384|RG141321 - Proyeksi Peta - BMS|setting
+928|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Proyeksi Peta - YWO|3385|RG141321 - Proyeksi Peta - YWO|setting
+929|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Proyeksi Peta - UWD|3386|RG141321 - Proyeksi Peta - UWD|setting
+930|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Kartografi Digital - LMJ|3387|RG141316 - Kartografi Digital - LMJ|setting
+931|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Kartografi Digital - CBP|3388|RG141316 - Kartografi Digital - CBP|setting
+932|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Kartografi Digital - HHT|3389|RM184306 - Kartografi Digital - HHT|setting
+933|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Survei Rekayasa - MNC|3390|RG141318 - Survei Rekayasa - MNC|setting
+934|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Survei Rekayasa - AKN|3391|RG141318 - Survei Rekayasa - AKN|setting
+935|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Fotogrametri Dasar - TGO|3392|RG141317 - Fotogrametri Dasar - TGO|setting
+936|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Fotogrametri Dasar - UWD|3393|RG141317 - Fotogrametri Dasar - UWD|setting
+937|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Fotogrametri Dasar - HHT|3394|RG141317 - Fotogrametri Dasar - HHT|setting
+938|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Oseanografi Fisik - KHM|3395|RG141322 - Oseanografi Fisik - KHM|setting
+939|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Sistem Informasi Geografis - TGO|3396|RG141314 - Sistem Informasi Geografis - TGO|setting
+940|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Sistem Informasi Geografis - UWD|3397|RG141314 - Sistem Informasi Geografis - UWD|setting
+941|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Sistem Informasi Geografis - HHT|3398|RG141314 - Sistem Informasi Geografis - HHT|setting
+942|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Sistem Informasi Geografis - CBP|3399|RG141314 - Sistem Informasi Geografis - CBP|setting
+943|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Manajemen Survei dan Pemetaan - KHM|3400|RG141331 - Manajemen Survei dan Pemetaan - KHM|setting
+944|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Manajemen Survei dan Pemetaan - HHT|3401|RG141331 - Manajemen Survei dan Pemetaan - HHT|setting
+945|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Manajemen Survei dan Pemetaan - AKN|3402|RG141331 - Manajemen Survei dan Pemetaan - AKN|setting
+946|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Pemetaan Pertambangan - MTF|3403|RG141329 - Pemetaan Pertambangan - MTF|setting
+947|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Pemetaan Pertambangan - AKN|3404|RG141329 - Pemetaan Pertambangan - AKN|setting
+948|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Survei Hidrografi - KHM|3405|RG141332 - Survei Hidrografi - KHM|setting
+949|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Pemetaan Pertambangan - UWD|3406|RG141329 - Pemetaan Pertambangan - UWD|setting
+950|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Geodesi Fisik - MTF|3407|RG141333 - Geodesi Fisik - MTF|setting
+951|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Survei Hidrografi - AKN|3408|RG141332 - Survei Hidrografi - AKN|setting
+952|Fakultas Teknologi Industri (FTI)|Teknik Kimia|TK144441|3410|METODOLOGI PENELITIAN|setting
+953|Fakultas Teknologi Industri (FTI)|Teknik Fisika|REKBAN LJ|3418|TF 141355 REKAYASA BAHAN|setting
+954|Fakultas Teknologi Industri (FTI)|Teknik Fisika|MATREK LJ|3419|TF 141231 MATEMATIKA REKAYASA I|setting
+955|Fakultas Teknologi Industri (FTI)|Teknik Fisika|FENOM LJ|3420|TF 141233 FENOMENA GELOMBANG|setting
+956|Fakultas Teknologi Industri (FTI)|Teknik Fisika|ELMAG LJ|3421|TF 141242 ELEKTROMAGNETIKA|setting
+957|Fakultas Teknologi Industri (FTI)|Teknik Fisika|SINY.SIS LJ|3422|TF 141351 SINYAL DAN SISTEM|setting
+958|Fakultas Teknologi Industri (FTI)|Teknik Fisika|PSD LJ|3423|TF 141352 PEMODELAN SISTEM DINAMIK|setting
+959|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TO LJ|3424|TF 141356 TEKNIK OPTIK|setting
+960|Fakultas Teknologi Industri (FTI)|Teknik Fisika|MATREK II LJ|3425|TF 141241 MATEMATIKA REKAYASA II|setting
+961|Fakultas Teknologi Industri (FTI)|Teknik Fisika|AKUSTIK LJ|3426|TF 141331 AKUSTIK|setting
+962|Fakultas Teknologi Industri (FTI)|Teknik Fisika|FISBAN LJ|3427|TF 141343 FISIKA BAHAN|setting
+963|Fakultas Teknologi Industri (FTI)|Teknik Fisika|GETARAN LJ|3428|TF 141353 GETARAN|setting
+964|Fakultas Teknologi Industri (FTI)|Teknik Fisika|KEANDALAN LJ|3429|TF 141382 KEANDALAN|setting
+965|Fakultas Teknologi Industri (FTI)|Teknik Fisika|SPO LJ|3430|TF 141362 SISTEM PENGENDALIAN OTOMATIK|setting
+966|Fakultas Teknologi Industri (FTI)|Teknik Fisika|KP LJ|3431|TF 141373 KERJA PRAKTEK|setting
+967|Fakultas Teknologi Industri (FTI)|Teknik Fisika|REKTEM LJ|3432|TF 141372 REKAYASA SISTEM KENYAMANAN TERMAL|setting
+968|Fakultas Teknologi Industri (FTI)|Teknik Fisika|METPEN LJ|3433|TF 141361 METODOLOGI PENELITIAN|setting
+969|Fakultas Teknologi Industri (FTI)|Teknik Fisika|SIFON LJ|3434|TF 141366 SISTEM FOTONIKA|setting
+970|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TA LJ|3435|TF 141581 TUGAS AKHIR|setting
+971|Fakultas Teknologi Industri (FTI)|Teknik Fisika|RSKKE LJ|3436|TF 141364 REKAYASA SISTEM KONVERSI D AN KONSERVASI ENERGI|setting
+972|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Ekivalensi Kurikulum|3454|Ekivalensi Kurikulum Teknik Geomatika ITS|setting
+973|Fakultas Teknologi Industri (FTI)|Teknik Fisika|METPEN C|3456|141361 METODOLOGI PENELITIAN C|setting
+974|Fakultas Ilmu Alam (FIA)|Biologi|SB 141433|3459|ENTOMOLOGI|setting
+975|Fakultas Ilmu Alam (FIA)|Biologi|SB141442|3460|SB141442-ORNITOLOGI|setting
+976|Fakultas Ilmu Alam (FIA)|Biologi|SB141436|3461|SB141436-PERILAKU HEWAN|setting
+977|Fakultas Ilmu Alam (FIA)|Biologi|SB141431|3462|BAHAN ALAM LAUT|setting
+978|Fakultas Ilmu Alam (FIA)|Biologi|SB141452|3463|BAKTERIOLOGI|setting
+979|Fakultas Ilmu Alam (FIA)|Biologi|SB141304|3464|BIOKIMIA|setting
+980|Fakultas Ilmu Alam (FIA)|Biologi|SB141474|3465|BIOKONSERVASI|setting
+981|Fakultas Ilmu Alam (FIA)|Biologi|SB141471|3466|BIOLOGI LAUT|setting
+982|Fakultas Ilmu Alam (FIA)|Biologi|SB141414|3467|BIOLOGI MANGROVE|setting
+983|Fakultas Ilmu Alam (FIA)|Biologi|SB 141418|3468|BIOSINTESIS METABOLIT TUMBUHAN|setting
+984|Fakultas Ilmu Alam (FIA)|Biologi|SB 141432|3469|KULTUR SEL HEWAN|setting
+985|Fakultas Ilmu Alam (FIA)|Biologi|SB 141450|3470|METALOMIK MIKROBIA|setting
+986|Fakultas Ilmu Alam (FIA)|Biologi|SB 141416|3471|KULTUR IN-VITRO TUMBUHAN|setting
+987|Fakultas Ilmu Alam (FIA)|Biologi|SB 141472|3472|INTERAKSI HEWAN & TUMBUHAN|setting
+988|Fakultas Ilmu Alam (FIA)|Biologi|SB 141434|3473|HISTOPATOLOGI HEWAN|setting
+989|Fakultas Ilmu Alam (FIA)|Biologi|SB 141422|3474|GENOMIK TUMBUHAN|setting
+990|Fakultas Ilmu Alam (FIA)|Biologi|SB 141443|3475|SB 141443 - ENDOKRINOLOGI|setting
+991|Fakultas Ilmu Alam (FIA)|Biologi|SB 141454|3476|MIKOLOGI|setting
+992|Fakultas Ilmu Alam (FIA)|Biologi|SB 141403|3477|OSEANOGRAFI|setting
+993|Fakultas Ilmu Alam (FIA)|Biologi|SB 141482|3478|PENGANTAR AMDAL|setting
+994|Fakultas Ilmu Alam (FIA)|Biologi|SB 141410|3479|PUPUK HAYATI|setting
+995|Fakultas Ilmu Alam (FIA)|Biologi|SB 141458|3480|TEK. FERMENTASI|setting
+996|Fakultas Ilmu Alam (FIA)|Biologi|SB 141412|3481|TUMBUHAN DAN MIKORIZA|setting
+997|Fakultas Teknologi Industri (FTI)|Teknik Material dan Metalurgi|TL 184415|3484|TL184415 Analisis Numerik dan Pemodelan|setting
+998|Fakultas Teknologi Industri (FTI)|Teknik Material dan Metalurgi|TL184852|3485|TL184852 Teknologi Pelapisan|setting
+999|Fakultas Teknologi Industri (FTI)|Teknik Material dan Metalurgi|TL184309|3486|TL184309 Metalurgi 1|setting
+1000|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|fisdas1_1819|3583|Fisika Dasar I|setting
+1001|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|Gartek_1819|3589|Menggambar Teknik|setting
+1002|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|MikroLing_1819|3596|Mikrobiologi Lingkungan|setting
+1003|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|math1_1819|3611|Matematika I|setting
+1004|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|Math2_1819|3626|Matematika II|setting
+1005|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|Fisdas2_1819|3633|Fisika Dasar II|setting
+1006|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|PengTekGeo_1819|3641|Pengantar Teknik Geospasial|setting
+1007|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|Kimdas_1819|3646|Kimia Dasar|setting
+1008|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|Kimling_1819|3660|Kimia Lingkungan|setting
+1009|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|PengelSDA_1819|3671|Pengelolaan Sumber Daya Air|setting
+1010|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|PUdPiklim_1819|3690|Pencemaran Udara dan Perubahan Iklim|setting
+1011|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|MektanGeo_1819|3694|Mekanika Tanah dan Geohidrologi|setting
+1012|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|hidrolikaTL_1819|3704|Hidrolika|setting
+1013|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|Pengstruk_1819|3708|Pengetahuan Struktur|setting
+1014|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|UPBioTL_1819|3712|Unit Proses Biologis Teknik Lingkungan|setting
+1015|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Teknologi Informasi|IT1841001A|3719|IT1841001 - Pemrograman Berorientasi Objek - A|setting
+1016|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geofisika|RF141301-A|3721|Pengantar Ilmu Kebumian|setting
+1017|Fakultas Teknologi Industri (FTI)|Teknik Kimia|KAA|3727|TK2310980-Kimia Analisa-A|setting
+1018|UPT Penyelenggara Mata Kuliah Sosial Humaniora|S1|12345|3730|Uji Coba|setting
+1019|Fakultas Teknologi Kelautan (FTK)|Teknik Perkapalan|biskap|3731|Bisnis Perkapalan|setting
+1020|Fakultas Teknologi Industri (FTI)|Teknik Material dan Metalurgi|TL184342|3732|TL184342 - Kimia Dasar - A|setting
+1021|Fakultas Teknologi Kelautan (FTK)|Teknik Sistem Perkapalan|ME184305|3733|ME184305 - Mekanika Fluida|setting
+1022|Fakultas Teknologi Kelautan (FTK)|Teknik Kelautan|MO-12345|3734|HIDRODINAMIKA|setting
+1023|UPT Penyelenggara Mata Kuliah Sosial Humaniora|S1|768|3737|tes|setting
+1024|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF181101PENGANTAR TEKNIK FISIKA|3880|TF181101 - PENGANTAR TEKNIK FISIKA|setting
+1025|Fakultas Teknologi Industri (FTI)|Teknik Fisika|BISLING|3883|BISING LINGKUNGAN|setting
+1026|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Logika & Struktur Diskrit [D]|3902|IS4101 - Logika & Struktur Diskrit [D]|setting
+1027|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Logika & Struktur Diskrit [ABC]|3903|IS4101 - Logika & Struktur Diskrit [A][B][C]|setting
+1028|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Konsep SI [A]|3906|IS4102 - Konsep SI [A]|setting
+1029|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Statistika [A]|3907|IS4305 - Statistika [A]|setting
+1030|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Statistika [B]|3908|IS4305 - Statistika [B]|setting
+1031|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Statistika [C]|3909|IS4305 - Statistika [C]|setting
+1032|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Sistem Basis Data [A]|3910|IW4301 - Sistem Basis Data [A]|setting
+1033|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Sistem Basis Data [B]|3911|IW4301 - Sistem Basis Data [B]|setting
+1034|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Sistem Basis Data [C]|3912|IW4301 - Sistem Basis Data [C]|setting
+1035|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Sistem Basis Data [D]|3913|IW4301 - Sistem Basis Data [D]|setting
+1036|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Pemrograman Web [A]|3914|IS4307 - Pemrograman Web [A]|setting
+1037|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Pemrograman Web [B]|3915|IS4307 - Pemrograman Web [B]|setting
+1038|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Pemrograman Web [C]|3916|IS4307 - Pemrograman Web [C]|setting
+1039|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Pemrograman Web [D]|3917|IS4307 - Pemrograman Web [D]|setting
+1040|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Manajemen & Proses TI|3918|IS4308 - Manajemen & Proses TI|setting
+1041|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Rekayasa Kebutuhan Perangkat Lunak [A]|3922|IS4309 - Rekayasa Kebutuhan Perangkat Lunak [A]|setting
+1042|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Rekayasa Kebutuhan Perangkat Lunak [B]|3923|IS4309 - Rekayasa Kebutuhan Perangkat Lunak [B]|setting
+1043|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Rekayasa Kebutuhan Perangkat Lunak [C]|3924|IS4309 - Rekayasa Kebutuhan Perangkat Lunak [C]|setting
+1044|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Rekayasa Kebutuhan Perangkat Lunak [D]|3925|IS4309 - Rekayasa Kebutuhan Perangkat Lunak [D]|setting
+1045|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Manajemen Proses Bisnis [A][D]|3926|IS4310 - Manajemen Proses Bisnis [A][D]|setting
+1046|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Manajemen Proses Bisnis [B][C]|3928|IS4310 - Manajemen Proses Bisnis [B][C]|setting
+1047|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Riset Operasi [A]|3930|IS4515 - Riset Operasi [A]|setting
+1048|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Riset Operasi [B]|3931|IS4515 - Riset Operasi [B]|setting
+1049|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Riset Operasi [C]|3932|IS4515 - Riset Operasi [C]|setting
+1050|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Riset Operasi [D]|3933|IS4515 - Riset Operasi [D]|setting
+1051|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Kecerdasan Bisnis [A]|3934|IS4516 - Kecerdasan Bisnis [A]|setting
+1052|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Kecerdasan Bisnis [B]|3935|IS4516 - Kecerdasan Bisnis [B]|setting
+1053|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Kecerdasan Bisnis [C]|3936|IS4516 - Kecerdasan Bisnis [C]|setting
+1054|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Kecerdasan Bisnis [D]|3937|IS4516 - Kecerdasan Bisnis [D]|setting
+1055|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Kecerdasan Bisnis [E]|3938|IS4516 - Kecerdasan Bisnis [E]|setting
+1056|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Kecerdasan Bisnis [F]|3939|IS4516 - Kecerdasan Bisnis [F]|setting
+1057|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Kecerdasan Bisnis [G]|3940|IS4516 - Kecerdasan Bisnis [G]|setting
+1058|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Manajemen Layanan TI [A]|3941|IS4517 - Manajemen Layanan TI [A]|setting
+1059|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Manajemen Layanan TI [B]|3942|IS4517 - Manajemen Layanan TI [B]|setting
+1060|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Manajemen Layanan TI [C]|3943|IS4517 - Manajemen Layanan TI [C]|setting
+1061|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Implementasi Perangkat Lunak [A]|3944|IS4518 - Implementasi Perangkat Lunak [A]|setting
+1062|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Implementasi Perangkat Lunak [B]|3945|IS4518 - Implementasi Perangkat Lunak [B]|setting
+1063|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Implementasi Perangkat Lunak [C]|3946|IS4518 - Implementasi Perangkat Lunak [C]|setting
+1064|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Implementasi Perangkat Lunak [D]|3947|IS4518 - Implementasi Perangkat Lunak [D]|setting
+1065|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Pra TA [A]|3948|IS4726 - Pra TA [A]|setting
+1066|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Evaluasi dan Audit TI|3949|IS4727 - Evaluasi dan Audit TI|setting
+1067|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Sistem Keputusan Berbasis Model [A]|3952|IS4947 - Sistem Keputusan Berbasis Model [A]|setting
+1068|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Teknologi Bergerak [A]|3953|IS4933 - Teknologi Bergerak [A]|setting
+1069|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Optimasi Kombinatorik & Heuristik [A]|3954|IS4944 - Optimasi Kombinatorik & Heuristik [A]|setting
+1070|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Manajemen Proyek TI [A]|3955|IS4413 - Manajemen Proyek TI [A]|setting
+1071|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Konsep SI [B]|3956|IS4102 - Konsep SI [B]|setting
+1072|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Konsep SI [C]|3957|IS4102 - Konsep SI [C]|setting
+1073|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Konsep SI [D]|3958|IS4102 - Konsep SI [D]|setting
+1074|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Etika Profesi TI [A]|3959|IS4728 - Etika Profesi TI [A]|setting
+1075|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Etika Profesi TI [B]|3960|IS4728 - Etika Profesi TI [B]|setting
+1076|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Etika Profesi TI [Q]|3961|IS4728 - Etika Profesi TI [Q]|setting
+1077|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Manajemen Keberlangsungan Bisnis [A]|3962|IS4940 - Manajemen Keberlangsungan Bisnis [A]|setting
+1078|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Kreatif Digital [A]|3963|IS4949 - Kreatif Digital [A]|setting
+1079|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Penggalian Data [A]|3964|IS4943 - Penggalian Data [A]|setting
+1080|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Internet untuk Segala [A]|3965|IS4934 - Internet untuk Segala [A]|setting
+1081|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Forensika Digital [A]|3966|IS4935 - Forensika Digital [A]|setting
+1082|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Keamanan Siber [A]|3967|IS4936 - Keamanan Siber [A]|setting
+1083|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Manajemen Hubungan Pelanggan [A]|3968|IS4946 - Manajemen Hubungan Pelanggan [A]|setting
+1084|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Teknologi Basis Data [A]|3969|IS4929 - Teknologi Basis Data [A]|setting
+1085|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Pengolahan Bahasa Alami [A]|3970|IS4931 - Pengolahan Bahasa Alami [A]|setting
+1086|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Algoritma & Pemrograman [A]|3971|IS4203 - Algoritma & Pemrograman [A]|setting
+1087|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Rintisan Bisnis Digital [A]|3972|IS4625 - Rintisan Bisnis Digital [A]|setting
+1088|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Rintisan Bisnis Digital [B]|3973|IS4625 - Rintisan Bisnis Digital [B]|setting
+1089|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Topik dalam Sistem Dinamik dan Aplikasinya di Berbagai Bidang|3974|IS185911 - Topik dalam Sistem Dinamik dan Aplikasinya di Berbagai Bidang|setting
+1090|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Manajemen Strategis Sistem Informasi|3975|IS185202 - Manajemen Strategis Sistem Informasi|setting
+1091|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Perencanaan strategis TI [A]|3976|IS4519 - Perencanaan strategis TI [A]|setting
+1092|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Perencanaan strategis TI [B]|3977|IS4519 - Perencanaan strategis TI [B]|setting
+1093|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Perencanaan strategis TI [C]|3978|IS4519 - Perencanaan strategis TI [C]|setting
+1094|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Perencanaan strategis TI [D]|3979|IS4519 - Perencanaan strategis TI [D]|setting
+1095|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Perencanaan strategis TI [E]|3980|IS4519 - Perencanaan strategis TI [E]|setting
+1096|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Perencanaan strategis TI [F]|3981|IS4519 - Perencanaan strategis TI [F]|setting
+1097|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Perencanaan strategis TI [G]|3982|IS4519 - Perencanaan strategis TI [G]|setting
+1098|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Infrastruktur Teknologi dan Sistem Informasi|3983|IS185101 - Infrastruktur Teknologi dan Sistem Informasi|setting
+1099|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Pengembangan dan Penerapan Sistem|3984|IS185102 - Pengembangan dan Penerapan Sistem|setting
+1100|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Manajemen dan Operasional Sistem Informasi|3985|IS185103 - Manajemen dan Operasional Sistem Informasi|setting
+1101|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Manajemen Data dan Informasi|3986|IS185104 - Manajemen Data dan Informasi|setting
+1102|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|IS185201-Metodologi Penelitian|3987|IS185201 - Metodologi Penelitian|setting
+1103|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Topik dalam Manajemen e-Government & SmartCity|3988|IS185901 - Topik dalam Manajemen e-Government & SmartCity|setting
+1104|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Topik dalam Tata Kelola dan Audit Sistem Informasi|3989|IS185902 - Topik dalam Tata Kelola dan Audit Sistem Informasi|setting
+1105|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Topik Dalam Manajemen Investasi dan Produktivitas SI/TI|3990|IS185903 - Topik Dalam Manajemen Investasi dan Produktivitas SI/TI|setting
+1106|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Topik Dalam Optimasi Dan Sains Manajemen|3991|IS185908 - Topik Dalam Optimasi Dan Sains Manajemen|setting
+1107|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Topik Dalam Sistem Pendukung Keputusan|3992|IS185909 - Topik Dalam Sistem Pendukung Keputusan|setting
+1108|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Topik Dalam Integrasi Data|3993|IS185905 - Topik Dalam Integrasi Data|setting
+1109|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Topik Dalam Semantic Web|3994|IS185906 - Topik Dalam Semantic Web|setting
+1110|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geofisika|RF184304 - A|3995|RF184304 Elektronika Dasar - A|setting
+1111|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geofisika|RF184309|3996|RF184309 Seismologi - A|setting
+1112|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geofisika|RF184309 - B|3997|RF184309 Sismologi - B|setting
+1113|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geofisika|RF184304 - B|3998|RF184304 Elektronika Dasar - B|setting
+1114|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geofisika|RF184305|3999|RF184305 Fisika Batuan - A|setting
+1115|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geofisika|RF184305 - B|4000|RF184305 Fisika Batuan - B|setting
+1116|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geofisika|RF184203 - A|4001|RF184203 Komputasi Geofisika - A|setting
+1117|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geofisika|RF184203 - B|4002|RF184203 Komputasi Geofisika - B|setting
+1118|Fakultas Teknologi Industri (FTI)|Teknik Industri|25100TI184101|4003|TI184101-Pengantar Teknik dan Sistem Industri|setting
+1119|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geofisika|RF184622 - A|4004|RF184622 Analisis Data Well Log - A|setting
+1120|Fakultas Teknologi Industri (FTI)|Teknik Industri|25100TI184830|4005|TI184830-Manajemen Proyek|setting
+1121|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geofisika|RF184622 - B|4006|RF184622 Analisis Data Well Log - B|setting
+1122|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geofisika|RF184737 - A|4007|RF184737 Seminar - A|setting
+1123|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geofisika|RF184737 - B|4008|RF184737 Seminar - B|setting
+1124|Fakultas Teknologi Industri (FTI)|Teknik Industri|241TI184306A|4009|TI184306-Statistik Industri 2 A|setting
+1125|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geofisika|RF184629 - A smt 6|4010|RF184629 Geowisata - A|setting
+1126|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geofisika|RF184629 - B smt 6|4011|RF184629 Geowisata - B|setting
+1127|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geofisika|RF184629 - A smt 7|4012|RF184629 Geowisata - A|setting
+1128|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geofisika|RF184629 - B smt 7|4013|RF184629 Geowisata - B|setting
+1129|Fakultas Teknologi Industri (FTI)|Teknik Industri|CIM2018|4014|Cost and Investment Management 2018|setting
+1130|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|RM184306 - ST&PP - IMA|4018|RM184306 - Sistem Transformasi dan Proyeksi Peta - IMA|setting
+1131|Fakultas Teknologi Industri (FTI)|Teknik Industri|241TI184306D|4022|TI184306-Statistik Industri 2 D|setting
+1133|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|PerPengSampah_1819|4024|Perencanaan Pengelolaan Sampah|setting
+1134|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|TAPL_1819|4025|Teknik Analisis Pencemar Lingkungan|setting
+1135|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|PEGUA_1819|4026|Pengendalian Emisi Gas dan Udara Ambien|setting
+1136|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|UPFisKimTL_1819|4027|Unit Proses Fisik Kimia ? Teknologi Lingkungan|setting
+1137|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|PerDAM_1819|4028|Perencanaan Distribusi Air Minum|setting
+1138|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|PPAL_1819|4029|Perencanaan Penyaluran Air Limbah|setting
+1139|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|UOTL_1819|4030|Unit Operasi Teknik Lingkungan|setting
+1140|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|ManproTL_1819|4031|Manajemen Proyek|setting
+1141|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|PerencDrainKota_1819|4032|Perencanaan Drainase Perkotaan|setting
+1142|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|TekRemLingk_1819|4033|Teknologi Remediasi Lingkungan|setting
+1143|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|Metpen_1819|4034|Metodologi Penelitian|setting
+1144|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|TekBersih_1819|4035|Teknologi Bersih|setting
+1145|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|PBPAMTL_1819|4036|Perencanaan Bangunan Pengolahan Air Minum|setting
+1146|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|PBPALTL_1819|4037|Perencanaan Bangunan Pengolahan Limbah|setting
+1147|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|WastekTL_1819|4038|Wawasan dan Aplikasi Teknologi|setting
+1148|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|B3TL_1819|4039|Pengelolaan Limbah B3|setting
+1149|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|AMDALTL_1819|4040|Analisis Mengenai Dampak Lingkungan|setting
+1150|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|PBPLTL_1819|4041|Perencanaan Bangunan Pengolahan Lumpur|setting
+1151|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|TPA_1819|4042|Perencanaan TPA|setting
+1152|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|TechnoTL_1819|4043|Technopreneur|setting
+1153|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|K3TL_1819|4044|Keselamatan dan Kesehatan Kerja|setting
+1154|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|SML_1819|4045|Sistem Audit dan Manajemen Lingkungan|setting
+1155|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|PlambingTL_1819|4046|Plambing|setting
+1156|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|PLITL_1819|4047|Pengelolaan Limbah Industri|setting
+1157|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|FitoteknologiTL_1819|4048|Fitoteknologi|setting
+1158|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|EkoLingkTL_1819|4049|Ekonomi Lingkungan|setting
+1159|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|BiomonTL_1819|4050|Biomonitoring Kualitas Lingkungan|setting
+1160|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|PAMBMTL_1819|4051|Penyediaan Air Minum Berbasis Masyarakat|setting
+1161|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|SanimasTL_1819|4052|Sanitasi Berbasis Masyarakat|setting
+1162|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|MDPUTL_1819|4053|Model Dispersi Pencemar Udara|setting
+1163|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|PemodelanTL_1819|4054|Dasar - Dasar Pemodelan Lingkungan|setting
+1164|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|EkotokTL_1819|4055|Ekotoksikologi|setting
+1165|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|OpPolFisKimTL_1819|4056|Operasi dan Proses Pemisahan Polutan Secara Fisik dan Kimia|setting
+1166|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|PSDL_1819|4057|Pengelolaan Sumber Daya Lingkungan|setting
+1167|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|KMPFisKim_1819|4058|Konversi Massa Pencemar Secara Fisik dan Kimiawi|setting
+1168|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|OpRemediasiTL_1819|4059|Operasi dan Proses Remediasi Lingkungan|setting
+1169|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|TekPengolSampahTL_1819|4060|Teknologi Pengolahan Sampah|setting
+1170|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|TPLB3TL_1819|4061|Teknologi Pengolahan Limbah B3|setting
+1171|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|TPEGTL_1819|4062|Teknologi Pengendalian Emisi dan Gas|setting
+1172|Fakultas Teknologi Industri (FTI)|Teknik Mesin|KINDIN-Y|4064|TM184309-KINEMATIKA DAN DINAMIKA TEKNIK-Y|setting
+1173|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|K3_TL_1819|4065|Keselamatan, Kesehatan dan Lingkungan Kerja|setting
+1174|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|TPLS2_1819|4066|Teknologi Pengolahan Lindi|setting
+1175|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|TPLumpurS2_TL_1819|4067|Teknologi Pengolahan Lumpur|setting
+1176|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|ModelUdaraTL_S2_1819|4068|Pemodelan Kualitas Udara|setting
+1177|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|SistPeng_PencUdaraTL_1819|4069|Sistem Pengendalian Pencemaran Udara|setting
+1178|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|TPLI_S2TL_1819|4070|Teknologi Pengolahan Limbah Industri|setting
+1179|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|Ekohidrologi_S2TL_1819|4071|Ekohidrologi|setting
+1180|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|BioteLingk_S2TL_1819|4072|Bioteknologi Lingkungan|setting
+1181|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|AnalisSistOpt_S2TL_1819|4073|Analisa Sistim dan Optimasi|setting
+1182|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|EkotokLingk_S2TL_1819|4074|Ekotoksikologi Lingkungan|setting
+1183|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|ModelTL_S2_1819|4075|Pemodelan Teknik Lingkungan|setting
+1184|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|AMitigasiIklim_S2TL_1819|4076|Adaptasi dan Mitigasi Perubahan Iklim|setting
+1185|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RemediasiTambang_S2TL_1819|4077|Remediasi Lahan Tambang|setting
+1186|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|DesainPengelB3_S2TSL_1819|4078|Desain dan Evaluasi Sistem Pengelolaan Sampah dan Limbah B3|setting
+1187|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|DesainEvalAirMinum_S2TSL_1819|4079|Desain dan Evaluasi Sistem Penyediaan Air Minum|setting
+1188|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|DesainEvalPengelAirLimbah_S2TSL_1819|4080|Desain dan Evaluasi Sistem Pengelolaan Air Limbah|setting
+1189|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|DesainDrainaseKota_S2TSL_1819|4081|Desain dan Evaluasi Sistem Drainase Perkotaan|setting
+1190|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RencIndukSist_S2TSL_1819|4082|Rencana Induk Sistem|setting
+1191|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|AnalisaSosEk_S2TSL_1819|4083|Analisis Sosial Ekonomi|setting
+1192|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|RPPL_S2TSL_1819|4084|Penyusunan Rencana Pembangunan Prasarana Lingkungan Permukiman (Studio)|setting
+1193|Fakultas Teknologi Industri (FTI)|Teknik Mesin|METAL-Y|4085|TM184310-METALURGI I-Y|setting
+1194|Fakultas Teknologi Industri (FTI)|Teknik Mesin|PTM-B|4086|TM184101-PENGANTAR TEKNIK MESIN-B|setting
+1195|Fakultas Teknologi Industri (FTI)|Teknik Mesin|PEM-D|4087|TM184627-PERENCANAAN ELEMEN MESIN-D|setting
+1196|Fakultas Teknologi Industri (FTI)|Teknik Industri|241TI184517C|4090|TI184517-Teknik Pengendalian Kualitas C|setting
+1197|Fakultas Teknologi Industri (FTI)|Teknik Industri|241TI184517Q|4091|TI184517-Teknik Pengendalian Kualitas Q|setting
+1198|Fakultas Teknologi Industri (FTI)|Teknik Industri|IMS|4092|Integrated Manufacturing Systems|setting
+1199|Fakultas Teknologi Industri (FTI)|Teknik Mesin|PROMANUI-Y|4095|TM184518-PROSES MANUFAKTUR I-Y|setting
+1200|Fakultas Teknologi Industri (FTI)|Teknik Mesin|INSTRU-B|4096|TM184411-INSTRUMENTASI DAN PENGUKURAN-B|setting
+1201|Fakultas Teknologi Industri (FTI)|Teknik Mesin|MEKATRO-B|4097|TM184626-MEKATRONIKA-B|setting
+1202|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|IGT - HHT|4098|RM184946 - Informasi Geospasial Tematik - HHT|setting
+1203|Fakultas Teknologi Industri (FTI)|Teknik Mesin|SISDIN-Y|4103|TM184521-SISTEM DINAMIK DAN PENGENDALIAN-Y|setting
+1204|Fakultas Teknologi Industri (FTI)|Teknik Mesin|SPL-A|4104|TM184793-SISTEM PENGENDALIAN LINEAR-A|setting
+1205|Fakultas Teknologi Industri (FTI)|Teknik Mesin|PPB-A|4105|TM184843-PESAWAT PEMINDAH BAHAN-A|setting
+1206|Fakultas Teknologi Industri (FTI)|Teknik Mesin|MD-A|4106|TM184865-MOULD DESIGN-A|setting
+1207|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|dasprog-c|4107|Dasar Pemrograman C|setting
+1208|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Informatika|KI141321E|4109|Grafika Komputer E|setting
+1212|Fakultas Teknologi Industri (FTI)|Teknik Industri|241TI184517A|4118|TI184517-Teknik Pengendalian Kualitas A|setting
+1216|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|UG184905|4122|UG184905 Agama Buddha (Buddhism studies)|setting
+1217|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|UG184904|4123|UG184904 Agama Hindu (Hinduism studies)|setting
+1218|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|UG184901|4124|UG184901 Agama Islam (Islamic studies)|setting
+1219|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|UG184903|4125|UG184903 Agama Katolik (Catholic studies)|setting
+1220|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|UG184906|4126|UG184906 Agama Khonghucu (Khonghucu studies)|setting
+1221|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|UG184902|4127|UG184902 Agama Kristen (Christian studies)|setting
+1222|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|UG184912|4128|UG184912 Bahasa Indonesia (Indonesian)|setting
+1223|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|SF184101|4129|SF184101 Fisika 1 (Physics 1)|setting
+1224|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|UG184913|4130|UG184913 Kewarganegaraan (Civics)|setting
+1225|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|KM184101|4131|KM184101 Matematika 1 (Mathematics 1)|setting
+1226|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184101|4132|RC184101 Statistik Dasar (Statistik Dasar)|setting
+1227|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184102|4133|RC184102 Struktur Statis Tertentu (Statically Determinate Structure)|setting
+1228|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|UG184914|4134|UG184914 Bahasa Inggris (English)|setting
+1229|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|SF184202|4135|SF184202 Fisika 2 (Physics 2)|setting
+1230|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|SK184101|4136|SK184101 Kimia 1 (Chemistry 1)|setting
+1231|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|KM184201|4137|KM184201 Matematika 2 (Mathematics 2)|setting
+1232|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184202|4138|RC184202 Mekanika Bahan (Mechanic of Materials)|setting
+1233|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|UG184911|4139|UG184911 Pancasila (Pancasila)|setting
+1234|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184201|4140|RC184201 Pemrograman Komputer (Computer Programming)|setting
+1235|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184303|4141|RC184303 Mekanika Fluida dan Hidrolika (Fluid Mechanics and Hydraulics)|setting
+1236|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184305|4142|RC184305 Menggambar Bangunan Sipil (Civil Engineering Drawing)|setting
+1237|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184301|4143|RC184301 Pemodelan dan Analisa Struktur (Modelling And Analysis Of Structure)|setting
+1238|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RW184901|4144|RW184901 Pengantar Informasi Geospasial (Introduction Geospatial to Information)|setting
+1239|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184304|4145|RC184304 Perencanaan Lalu Lintas dan Transportasi (Transportation and Traffic Design)|setting
+1240|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184302|4146|RC184302 Teknologi Bahan Bangunan (Building Material Technology)|setting
+1241|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184401|4147|RC184401 Elemen Struktur Baja (Steel Structure Element)|setting
+1242|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184402|4148|RC184402 Elemen Struktur Beton (Concrete Structure Element)|setting
+1243|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184403|4149|RC184403 Hidrologi (Hydrology)|setting
+1244|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184404|4150|RC184404 Konstruksi Jalan Kereta Api (Railway Engineering)|setting
+1245|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184405|4151|RC184405 Manajemen Konstruksi (Construction Management)|setting
+1246|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184406|4152|RC184406 Mekanika Tanah dan Pondasi (Soil Mechanic and Foundation)|setting
+1247|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184503|4153|RC184503 Drainase (Drainage)|setting
+1248|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184505|4154|RC184505 Peralatan dan Metode Konstruksi (Construction Equipment and Methods)|setting
+1249|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184501|4155|RC184501 Struktur Bangunan Baja (Structure Steel Building)|setting
+1250|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184502|4156|RC184502 Struktur Bangunan Beton (Concrete Structure)|setting
+1251|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184504|4157|RC184504 Teknik Sungai (River Engineering)|setting
+1252|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184506|4158|RC184506 Timbunan dan Konstruksi Penahan Tanah (Embankment And Earth Retaining Structure)|setting
+1253|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184604|4159|RC184604 Dasar Teknik Pantai dan Perencanaan Pelabuhan (Hydraulic Coastal Engineering and Port Planning)|setting
+1254|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184603|4160|RC184603 Irigasi dan Bangunan Air (Irrigation and Water Structures)|setting
+1255|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184605|4161|RC184605 Pengendalian Waktu dan Biaya Proyek (Project Cost and Schedule Control)|setting
+1256|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184606|4162|RC184606 Perancangan Jalan Raya (Highway Design)|setting
+1257|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184602|4163|RC184602 Perancangan Struktur beton (Design of Reinforced Concrete Building)|setting
+1258|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184601|4164|RC184601 Rekayasa Jembatan (Bridge Engineering)|setting
+1259|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184709|4165|RC184709 Beton Pratekan (Prestressed Concrete)|setting
+1260|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184707|4166|RC184707 Dinamika Struktur (Structural Dynamics)|setting
+1261|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184721|4167|RC184721 Ekonomi Jalan Raya (Highway Economy)|setting
+1262|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184722|4168|RC184722 Fasilitas Angkutan Penumpang dan Barang (Passengers and Freight Transportation Facilities)|setting
+1263|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184725|4169|RC184725 Fasilitas Pelabuhan (Port Facilities)|setting
+1264|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184713|4170|RC184713 Geologi Teknik (Geology Engineering)|setting
+1265|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184724|4171|RC184724 Geometrik Jalan Rel (Railway Geometric)|setting
+1266|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184727|4172|RC184727 Kesehatan, Keselamatan Kerja, dan Lingkungan (Health, Safety, and Environment)|setting
+1267|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184705|4173|RC184705 Metode Elemen Hingga (Finite Element Method)|setting
+1268|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184712|4174|RC184712 Metode Perbaikan Tanah (Soil Improvement Method)|setting
+1269|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184728|4175|RC184728 Optimasi Waktu dan Biaya (Resource Optimization)|setting
+1270|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184801|4176|RC184801 Pengadaan dan Kontrak Proyek konstruksi (Procurement and Contract for Construction Project)|setting
+1271|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Statistika Geomatika|4177|RM184305 - Statistika|setting
+1272|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184726|4178|RC184726 Pengantar Manajemen Aset Infrastruktur (Introduction to Infrastructure Asset Management)|setting
+1273|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184717|4179|RC184717 Pengelolaan Sumber Daya Air (Water Resources Management)|setting
+1274|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184718|4180|RC184718 Pengoperasian dan Pemeliharaan Bangunan Air (Operation and Maintenance of Water Infrastructures)|setting
+1275|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184729|4181|RC184729 Penilaian Properti (Property Valuation)|setting
+1276|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184701|4182|RC184701 Perancangan Jembatan (Steel Bridges Design)|setting
+1277|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184716|4183|RC184716 Perencanaan Bangunan Pantai (Design of Coastal Protection)|setting
+1278|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184703|4184|RC184703 Perencanaan dan Perancangan Bandara (Airport Planning and Design)|setting
+1279|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184715|4185|RC184715 Perencanaan dan Perancangan Jaringan Perpipaan (Design of Pipeline)|setting
+1280|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184720|4186|RC184720 Perencanaan dan Perancangan Tenaga Air (Hydropower)|setting
+1281|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184719|4187|RC184719 Perencanaan dan Perancangan Waduk (Design of Dam)|setting
+1282|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184723|4188|RC184723 Perencanaan Permintaan Transportasi (Transportation Planning)|setting
+1283|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184711|4189|RC184711 Pondasi Beban Dinamis (Dynamically Loaded Foundation)|setting
+1284|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184714|4190|RC184714 Pondasi diatas lapisan batuan (Rock Foundation Engineering)|setting
+1285|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184710|4191|RC184710 Pondasi Lanjut (Advanced Foundation Engineering)|setting
+1286|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184708|4192|RC184708 Rekayasa Jembatan Bentang Panjang (Long Span Bridge Engineering)|setting
+1287|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184706|4193|RC184706 Struktur Baja Daktail (Ductile Design of Steel Structures)|setting
+1288|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184730|4194|RC184730 Studi Kelayakan Proyek Konstruksi (Feasibility Study for Construction Project)|setting
+1289|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184702|4195|RC184702 Teknik Pengambilan Keputusan (Decision Making Techniques)|setting
+1290|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184704|4196|RC184704 Teknik Penulisan Ilmiah (Academic Report Writing)|setting
+1291|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|UG184915|4197|UG184915 Teknopreneur (Technopreneurship)|setting
+1292|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184732|4198|RC184732 Topik Khusus (Special Topics)|setting
+1293|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184731|4199|RC184731 Utilitas Gedung (Building Utility)|setting
+1294|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184802|4200|RC184802 Kerja Praktek (Internship)|setting
+1295|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184804|4201|RC184804 Prinsip Infrastruktur Sipil (Pengayaan) (Principle of Civil Infrastructures?(Enrichment))|setting
+1296|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|RC184803|4202|RC184803 Tugas Akhir (Final Project)|setting
+1297|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Sipil|UG184916|4203|UG184916 Wawasan dan Aplikasi Teknologi (Concept of Technology)|setting
+1298|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|RM184306 - ST&PP - EYH|4209|RM184306 - Sistem Tranformasi dan Proyeksi Peta - EYH & HHT|setting
+1299|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI185172VI|4210|TI185172 Manufacturing Excellence VI|setting
+1300|Fakultas Teknologi Industri (FTI)|Teknik Industri|TI185172SMI|4211|TI185172 Manufacturing Excellence SMI|setting
+1303|Fakultas Teknologi Industri (FTI)|Teknik Fisika|SISMEN|4216|TF 181702 SISTEM INSTRUMENTASI|setting
+1304|Fakultas Teknologi Industri (FTI)|Teknik Fisika|INSTRULEKIN|4217|TF 181819 INSTRUMENTASI DAN ELEKTRIK INDUSTRI|setting
+1305|Fakultas Teknologi Industri (FTI)|Teknik Fisika|FUZZY|4218|TF 181815 SISTEM LOGIKA FUZZY|setting
+1306|Fakultas Teknologi Industri (FTI)|Teknik Fisika|METPEN|4220|TF 181703 METODE PENELITIAN|setting
+1307|Fakultas Teknologi Industri (FTI)|Teknik Fisika|CERDAS|4221|TF 185313 KECERDASAN BUATAN UNTUK SISTEM INSTRUMEN|setting
+1308|Fakultas Teknologi Industri (FTI)|Teknik Fisika|KO LANJUT|4222|TF 185201 KONTROL OTOMATIK LANJUT|setting
+1309|Fakultas Teknologi Industri (FTI)|Teknik Fisika|OPSIS|4224|TF 185202 OPTIMISASI SISTEM|setting
+1310|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF185230|4225|TF185230 SISTEM ENERGI TERBARUKAN|setting
+1311|Fakultas Teknologi Industri (FTI)|Teknik Fisika|181503RSKKE|4226|TF 181503 REKAYASA SISTEM KONVERSI DAN KONSERVASI ENERGI|setting
+1312|Fakultas Teknologi Industri (FTI)|Teknik Fisika|181303MEKFLU|4228|TF 181303 MEKANIKA FLUIDA|setting
+1313|Fakultas Teknologi Industri (FTI)|Teknik Fisika|PERPAN|4229|TF 181306 PERPINDAHAN PANAS DAN MASA|setting
+1314|Fakultas Ilmu Alam (FIA)|Kimia|Biokimia B|4231|SK184531 - Biokimia B|setting
+1315|Fakultas Ilmu Alam (FIA)|Kimia|Biokimia C|4232|SK184531 - Biokimia C|setting
+1316|Fakultas Ilmu Alam (FIA)|Kimia|Biologi Dasar A|4234|SW185702 - Biologi Dasar A|setting
+1317|Fakultas Ilmu Alam (FIA)|Kimia|Biologi Dasar B|4235|SW185702 - Biologi Dasar B|setting
+1318|Fakultas Ilmu Alam (FIA)|Kimia|Biokimia A|4237|SK184531 - Biokimia A|setting
+1319|Fakultas Ilmu Alam (FIA)|Kimia|Biologi Dasar C|4238|SW185702 - Biologi Dasar C|setting
+1320|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF185130|4239|TF185130 STATISTIK ENERGI|setting
+1325|Fakultas Teknologi Industri (FTI)|Teknik Mesin|ANUM-A|4246|TM184517-ANALISA NUMERIK-A|setting
+1326|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|PencMultiFase-S3|4247|Perpindahan Pencemar Multi-fase|setting
+1327|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|publik-inter-S3tl|4248|Penulisan Ilmiah dan Publikasi Internasional|setting
+1328|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|stokastik-s3tl|4249|Metoda Stokastik Teknik Lingkungan|setting
+1329|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|fito-s3tl|4250|Fitoteknologi Terapan|setting
+1330|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|EkologiMikroba_S3tl_1819|4251|Ekologi Mikroba Terapan|setting
+1331|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|Tekno-mutakhir-pen-S3tl-1819|4252|Teknologi Mutakhir Pengolahan Air Limbah|setting
+1332|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|TekMut_PengolSampah-S3tl-1819|4253|Teknologi Mutakhir Pengolahan Sampah|setting
+1333|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|TeknoMutPengolB3-S3TL-1819|4254|Teknologi Mutakhir Pengolahan B3|setting
+1334|Fakultas Teknologi Industri (FTI)|Teknik Fisika|STATO|4255|TF 181302 STATISTIK DAN STOKASTIK|setting
+1335|Fakultas Teknologi Industri (FTI)|Teknik Industri|241TI184309 C|4256|TI184309 Ergonomi Industri C|setting
+1336|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|35100RM1845182018B|4257|RM184518 - Jaring Kontrol Geodesi - Kelas B - MTF - EYH - HHT|setting
+1337|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|35100RM1845192018_|4258|RM184519 - Penginderaan Jauh - HHT|setting
+1342|Fakultas Teknologi Industri (FTI)|Teknik Industri|241TI184309Q|4263|TI184309 Ergonomi Industri Q|setting
+1343|Fakultas Teknologi Industri (FTI)|Teknik Mesin|ELMES1-B|4264|TM184414-ELEMEN MESIN 1-B|setting
+1346|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|PSDL__TSL1819|4267|Pengelolaan Sumber Daya Lingkungan|setting
+1347|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|PSDL_EMI_S2TL_1819|4268|Environmental Resource Management|setting
+1348|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|BioteLingk_EMI_S2TL_1819|4269|Environmental Biotechnology|setting
+1401|Fakultas Teknologi Industri (FTI)|Teknik Mesin|PTM-C|4323|TM184101-PENGANTAR TEKNIK MESIN-C|setting
+1402|Fakultas Teknologi Industri (FTI)|Teknik Mesin|ELMES1-A|4324|TM184414-ELEMEN MESIN 1-A|setting
+1403|Fakultas Teknologi Industri (FTI)|Teknik Mesin|KINDIN-D|4325|TM184309-KINEMATIKA DAN DINAMIKA TEKNIK-D|setting
+1404|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|35100RM1847282018A|4326|RM184728 - Manajemen Pertanahan|setting
+1405|Fakultas Ilmu Alam (FIA)|Biologi|SB 184223|4328|OSEANOGRAFI|setting
+1406|Fakultas Ilmu Alam (FIA)|Biologi|SB 184101 2018|4329|BIOLOGI UMUM|setting
+1407|Fakultas Ilmu Alam (FIA)|Biologi|SB 184223 2018|4330|OSEANOGRAFI|setting
+1408|Fakultas Ilmu Alam (FIA)|Biologi|SB 184305 2018|4331|MIKROBIOLOGI|setting
+1409|Fakultas Ilmu Alam (FIA)|Biologi|SB 184318 2018|4332|BIODIVERSITAS|setting
+1410|Fakultas Ilmu Alam (FIA)|Biologi|SB 184319 2018|4333|BIOGEOGRAFI|setting
+1411|Fakultas Ilmu Alam (FIA)|Biologi|SB 184511 2018|4334|FISIOLOGI HEWAN|setting
+1412|Fakultas Ilmu Alam (FIA)|Biologi|SB 184512 2018|4335|FISIOLOGI TUMBUHAN|setting
+1413|Fakultas Ilmu Alam (FIA)|Biologi|SB 184513 2018|4336|GENETIKA|setting
+1414|Fakultas Ilmu Alam (FIA)|Biologi|SB 184514 2018|4337|SISTEMATIKA TUMBUHAN|setting
+1415|Fakultas Ilmu Alam (FIA)|Biologi|SB 184521 2018|4338|BIOLOGI KONSERVASI|setting
+1416|Fakultas Ilmu Alam (FIA)|Biologi|SB 184525 2018|4339|BIOTEKNOLOGI|setting
+1417|Fakultas Ilmu Alam (FIA)|Biologi|SB 184617 2018|4340|SISTEMATIKA MIKROBIA|setting
+1418|Fakultas Ilmu Alam (FIA)|Biologi|SB 184626 2018|4341|BIOLOGI LAUT|setting
+1419|Fakultas Ilmu Alam (FIA)|Biologi|UG 184916 2016|4342|WAWASAN DAN APLIKASI TEKNOLOGI|setting
+1420|Fakultas Ilmu Alam (FIA)|Biologi|SB 184727 2018|4343|BIOMONITORING|setting
+1421|Fakultas Ilmu Alam (FIA)|Biologi|SB 184728 2018|4344|KERJA PRAKTEK|setting
+1422|Fakultas Ilmu Alam (FIA)|Biologi|SB 184729 2018|4345|SEMINAR|setting
+1423|Fakultas Ilmu Alam (FIA)|Biologi|SB 185701 2018|4346|MANAJEMEN LABORATORIUM|setting
+1424|Fakultas Teknologi Informasi dan Komunikasi (FTIK)|Sistem Informasi|Topik Dalam Pemodelan dan Simulasi Sistem|4348|IS185910 - Topik Dalam Pemodelan dan Simulasi Sistem|setting
+1425|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|35100RM1846262018B|4349|RM184626 - Analisa Informasi Geospasial|setting
+1426|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF1856102|4351|TF1856102 - Filsafat Etika|setting
+1427|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF181101|4352|TF181101-PENGANTAR TEKNIK FISIKA|setting
+1428|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF181202|4353|TF181202- RANGKAIAN LISTRIK|setting
+1429|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF181402|4354|TF181402 TEKNIK PENGUKURAN DAN KALIBRASI|setting
+1430|Fakultas Ilmu Alam (FIA)|Kimia|Bioremediasi|4381|SK184732 - Bioremediasi|setting
+1431|Fakultas Ilmu Alam (FIA)|Kimia|Bisnis Kimia|4382|SK184765 - Bisnis Kimia (Pengayaan)|setting
+1432|Fakultas Ilmu Alam (FIA)|Kimia|Dasar Kimia Organik A|4384|SK184351 - Dasar Kimia Organik - A|setting
+1433|Fakultas Ilmu Alam (FIA)|Kimia|Dasar Kimia Organik B|4385|SK184351 - Dasar Kimia Organik - B|setting
+1434|Fakultas Ilmu Alam (FIA)|Kimia|Dasar Kimia Organik C|4387|SK184351 - Dasar Kimia Organik - C|setting
+1435|Fakultas Ilmu Alam (FIA)|Kimia|Elektrometri|4388|SK184712 - Elektrometri|setting
+1436|Fakultas Ilmu Alam (FIA)|Kimia|Fitokimia|4390|SK184741 - Fitokimia|setting
+1437|Fakultas Ilmu Alam (FIA)|Kimia|Geokimia Batubara|4391|SK184752 - Geokimia Batubara|setting
+1438|Fakultas Ilmu Alam (FIA)|Kimia|Kapita Selekta - B|4392|SK184861 - Kapita Selekta - B|setting
+1439|Fakultas Ilmu Alam (FIA)|Kimia|Kimia Analisis|4393|SK184864 - Kimia Analisis (Pengayaan)|setting
+1440|Fakultas Ilmu Alam (FIA)|Kimia|Kimia Bahan Bangunan|4394|SK184726 - Kimia Bahan Bangunan|setting
+1441|Fakultas Ilmu Alam (FIA)|Kimia|Kimia Bahan Beracun dan Berbahaya|4395|SK184862 - Kimia Bahan Beracun dan Berbahaya|setting
+1442|Fakultas Teknologi Industri (FTI)|Teknik Industri|Academic Writing|4396|Academic Writing|setting
+1443|Fakultas Ilmu Alam (FIA)|Kimia|Kimia Bahan Makanan|4397|SK184766 - Kimia Bahan Makanan|setting
+1444|Fakultas Teknologi Industri (FTI)|Teknik Kimia|PLPLIB3|4399|Pengolahan Limbah Padat, Limbah Industri dan B3|setting
+1445|Fakultas Teknologi Industri (FTI)|Teknik Industri|Makro|4401|Ergonomi Makro|setting
+1446|Fakultas Teknologi Industri (FTI)|Teknik Industri|K3 - Industri|4403|Keselamatan dan Kesehatan Kerja Industri|setting
+1447|Fakultas Teknologi Industri (FTI)|Teknik Industri|KAPSEL|4404|KAPITA SELEKTA - MMT|setting
+1448|Fakultas Teknologi Industri (FTI)|Teknik Kimia|PLIPg|4405|Pengolahan Limbah Industri (Pengayaan)|setting
+1449|Fakultas Teknologi Industri (FTI)|Teknik Fisika|ELKA|4408|TF 181304 ELEKTRONIKA|setting
+1450|Fakultas Teknologi Industri (FTI)|Teknik Fisika|GETAR|4409|TF 181504 GETARAN|setting
+1451|Fakultas Teknologi Industri (FTI)|Teknik Fisika|SINYAL|4410|TF 181501 SINYAL dan SISTEM|setting
+1452|Fakultas Teknologi Industri (FTI)|Teknik Mesin|TPM-A|4411|TM185219-TEORI PENGENDALIAN MODERN-A|setting
+1453|Fakultas Teknologi Industri (FTI)|Teknik Mesin|SISDIN-B|4412|TM184521-SISTEM DINAMIK DAN PENGENDALIAN-B|setting
+1454|Fakultas Teknologi Industri (FTI)|Teknik Kimia|PLI|4414|Pengolahan Limbah Industri|setting
+1455|Fakultas Teknologi Industri (FTI)|Teknik Fisika|FENGEL|4416|TF 181305 FENOMENA GELOMBANG|setting
+1456|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TOPTIK|4417|TF 181605 TEKNIK OPTIK|setting
+1457|Fakultas Teknologi Industri (FTI)|Teknik Fisika|MANER|4418|TF 181835 MANAJEMEN ENERGI|setting
+1458|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF 181602 REKTEM|4419|TF 181602 REKAYASA SISTEM KENYAMANAN TERMAL|setting
+1459|Fakultas Teknologi Industri (FTI)|Teknik Fisika|181703 METPEN LJ|4420|TF 181703 METODE PENELITIAN|setting
+1460|Fakultas Teknologi Industri (FTI)|Teknik Fisika|REKBAN|4421|TF 181604 REKAYASA BAHAN|setting
+1461|Fakultas Teknologi Industri (FTI)|Teknik Fisika|181705 SIFON|4422|TF 181705 SISTEM FOTONIKA|setting
+1462|Fakultas Teknologi Industri (FTI)|Teknik Fisika|181705 SIFON LJ|4423|TF 181705 SISTEM FOTONIKA|setting
+1463|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF 181301 MATREK I|4424|TF 181301 MATEMATIKA REKAYASA I|setting
+1464|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF 181403 PSD|4425|TF 181403 PEMODELAN SISTEM DINAMIK|setting
+1465|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF 181604 REKBAN LJ|4426|TF 181604 REKAYASA BAHAN|setting
+1466|Fakultas Teknologi Industri (FTI)|Teknik Fisika|P&K|4427|TF 181810 PENGUKURAN DAN KALIBRASI (MK.PENGAYAAN)|setting
+1467|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF 181505 FISBAN|4428|TF 181505 FISIKA BAHAN|setting
+1468|Fakultas Teknologi Industri (FTI)|Teknik Fisika|KONVIB|4429|TF 181821 KONTROL VIBRASI|setting
+1469|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF 181602 REKTEM LJ|4430|TF 181602 REKAYASA SISTEM KENYAMANAN TERMAL|setting
+1470|Fakultas Teknologi Industri (FTI)|Teknik Fisika|REKHIDRO|4431|TF 181833 REKAYASA HIDRODINAMIKA|setting
+1471|Fakultas Teknologi Industri (FTI)|Teknik Fisika|DIFON|4432|TF 181853 DIVAIS FOTONIKA|setting
+1472|Fakultas Teknologi Industri (FTI)|Teknik Fisika|ANDAL|4433|TF 181706 KEANDALAN|setting
+1473|Fakultas Teknologi Industri (FTI)|Teknik Fisika|PROTEK|4434|TF 181817 PROTEKSI DAN PENGAMANAN|setting
+1474|Fakultas Teknologi Industri (FTI)|Teknik Fisika|OPTIM|4435|TF 181802 OPTIMISASI|setting
+1475|Fakultas Teknologi Industri (FTI)|Teknik Fisika|NANO|4436|TF 181842 TEKNOLOGI MATERIAL NANO|setting
+1476|Fakultas Teknologi Industri (FTI)|Teknik Fisika|EKEN|4437|TF 181831 EKONOMI ENERGI|setting
+1477|Fakultas Teknologi Industri (FTI)|Teknik Fisika|OPT|4438|TF 181802 OPTIMISASI|setting
+1478|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF 181811 SPM|4439|TF181811 SISTEM PENGENDALIAN MODERN|setting
+1479|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF 181813 DALPRO|4440|TF 181813 PENGENDALIAN PROSES|setting
+1480|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF 181855 SKSO|4441|TF 181855 SISTEM KOMUNIKASI SERAT OPTIK|setting
+1481|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF 181843 KARMAT|4442|TF 181843 TEKNIK KARAKTERISASI MATERIAL|setting
+1482|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF 181823 BISLING|4443|TF 181823 BISING LINGKUNGAN|setting
+1483|Fakultas Teknologi Industri (FTI)|Teknik Industri|241TI185546|4444|Rekayasa Sistem Keselamatan dan Kesehatan Kerja|setting
+1484|Fakultas Teknologi Industri (FTI)|Teknik Mesin|BIO-A|4445|TM184862-BIO ENERGI-A|setting
+1485|Fakultas Teknologi Industri (FTI)|Teknik Mesin|TermoII-B|4446|TM184412-Termodinamika II-B|setting
+1486|Fakultas Teknologi Kelautan (FTK)|Teknik Kelautan|PKBL 1|4447|Perencanaan Dan Konstruksi Bangunan Laut|setting
+1487|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF 186102|4448|TF 186102 - Metodologi Penelitian|setting
+1488|Fakultas Teknologi Kelautan (FTK)|Teknik Kelautan|MO184405|4452|METODE ELMEN HINGGA|setting
+1490|Fakultas Teknologi Kelautan (FTK)|Teknik Sistem Perkapalan|ME4306|4454|ME4306-ELEKTRONIKA KAPAL|setting
+1491|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|RM185101|4455|Applied Statistics and Probability|setting
+1492|Fakultas Teknologi Industri (FTI)|Teknik Fisika|181704 MACER|4456|TF 181704 MATERIAL CERDAS|setting
+1493|Fakultas Teknologi Kelautan (FTK)|Teknik Sistem Perkapalan|ME184415|4458|ME184415 - DESAIN I: RENCANA GARIS|setting
+1494|Fakultas Teknologi Kelautan (FTK)|Teknik Sistem Perkapalan|ME184624|4459|ME184624 - DESAIN III: RENCANA UMUM, FIRE & SAFETY PLAN|setting
+1495|Fakultas Teknologi Kelautan (FTK)|Teknik Sistem Perkapalan|ME184304|4460|ME184304 - TERMODINAMIKA|setting
+1496|Fakultas Teknologi Kelautan (FTK)|Teknik Sistem Perkapalan|ME184730|4461|ME184730 - DESAIN IV: SISTEM PERMESINAN dan KELISTRIKAN KAPAL|setting
+1497|Fakultas Teknologi Industri (FTI)|Teknik Industri|kapsel2018|4462|Kapsel MMT|setting
+1498|Fakultas Teknologi Industri (FTI)|Teknik Fisika|Komputasi Optik|4463|TF186123 Komputasi Optik dan Photonics|setting
+1499|Fakultas Teknologi Industri (FTI)|Teknik Fisika|Pemodelan Sistem|4464|TF186112 Pemodelan Sistem|setting
+1500|Fakultas Teknologi Industri (FTI)|Teknik Fisika|Pengembangan Sistem Fotonik|4465|TF186121 Pengembangan Sistem Fotonik|setting
+1501|Fakultas Teknologi Industri (FTI)|Teknik Fisika|Pengolahan Data Multivariat|4466|TF186111 Pengolahan Data Multivariat|setting
+1502|Fakultas Teknologi Industri (FTI)|Teknik Fisika|Sistem Instrumentasi Lanjut|4467|TF186211 Sistem Instrumentasi Lanjut|setting
+1503|Fakultas Teknologi Industri (FTI)|Teknik Fisika|Analisa dan Pencitra Multimodal Spektroskopi|4468|TF143415 Analisa dan Pencitra Multimodal Spektroskopi|setting
+1504|Fakultas Teknologi Industri (FTI)|Teknik Fisika|asar-dasar Material Fungsional|4470|TF186151 Dasar-dasar Material Fungsional|setting
+1505|Fakultas Teknologi Industri (FTI)|Teknik Fisika|Kinetika Material Lanjut|4471|TF186251 Kinetika Material Lanjut|setting
+1506|Fakultas Teknologi Industri (FTI)|Teknik Fisika|Dinamika Fluida Lanjut|4472|TF186232 Dinamika Fluida Lanjut|setting
+1507|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF186113|4473|TF186113 Sistem Kontrol Lanjut|setting
+1508|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|GNSS - EYH|4474|Survei Sistem Satelit Navigasi Global - EYH|setting
+1509|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF186101|4475|TF186101 Metodologi Penelitian Lanjut|setting
+1510|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF186122|4476|TF186122 Material Fotonik|setting
+1511|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|JKG - HHT|4477|RM184518 - Jaring Kontrol Geodesi - HHT|setting
+1512|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF186132|4478|TF186132 Pemodelan Energi|setting
+1513|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF186133|4479|TF186133 Sistem dan Distribusi Energi|setting
+1514|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF186141|4480|TF186141 Telinga dan Pendengaran|setting
+1515|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF186142|4481|TF186142 Vibrasi dan Akustik|setting
+1516|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF186143|4482|TF186143 Pemrosesan Sinyal Array|setting
+1517|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF186152|4483|TF186152 Struktur Material Lanjut|setting
+1518|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF186212|4484|TF186212 Optimisasi Sistem|setting
+1519|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF186221|4485|TF186221 Kapita Selekta Optik dan Fotonika|setting
+1520|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF186222|4486|TF186222 Analisa dan Pencitra Multimodal Spektroskopi|setting
+1521|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF186231|4487|TF186231 Desain Sistem Thermal|setting
+1522|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF186241|4488|TF186241 Algoritma Pembelajaran Mesin|setting
+1523|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF186242|4489|TF186242 Akustika Bawah Air|setting
+1524|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|STPP - YWO|4490|RM184306 - Sistem Transformasi dan Proyeksi Peta - YWO|setting
+1525|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF185101 F|4491|TF185101 Fisika Teknik Lanjut|setting
+1526|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF185102 M|4492|TF185102 Matematika Teknik Lanjut|setting
+1527|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF185103|4493|TF185103 Instrumentasi Lanjut|setting
+1528|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF185104|4494|TF185104 Dinamika Sistem Lanjut|setting
+1529|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF185301|4501|TF185301 Rekayasa Desain|setting
+1530|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geofisika|EDs|4504|Elektronika Dasar Kelas A|setting
+1531|Fakultas Teknologi Industri (FTI)|Teknik Mesin|TM4309|4507|Kinematika Dinamika Teknik Kelas C|setting
+1532|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF181306|4508|Perpindahan Panas dan Massa|setting
+1533|Fakultas Teknologi Kelautan (FTK)|Teknik Perkapalan|MN184101|4509|Engineering Drawing|setting
+1534|Fakultas Teknologi Industri (FTI)|Teknik Fisika|FGg|4510|Fenomena Gelombang|setting
+1535|Fakultas Teknologi Kelautan (FTK)|Teknik Kelautan|MetNumA|4514|Metode numerik dan Pemrograman Komputer|setting
+1536|Fakultas Teknologi Kelautan (FTK)|Teknik Perkapalan|KKK|4517|Konstruksi dan Kekuatan Kapal I|setting
+1537|Fakultas Teknologi Industri (FTI)|Teknik Mesin|TdT|4519|Termodinamika Teknik|setting
+1538|Fakultas Teknologi Industri (FTI)|Teknik Mesin|PPanas|4520|Perpindahan Panas|setting
+1539|Fakultas Teknologi Industri (FTI)|Teknik Fisika|SSm|4526|Sinyal dan Sistem|setting
+1540|Fakultas Teknologi Industri (FTI)|Teknik Mesin|PPas|4531|Perpindahan Panas|setting
+1541|Fakultas Teknologi Industri (FTI)|Teknik Mesin|TerTek|4532|Termodinamika Teknik|setting
+1542|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF185271|4539|TF185271 Metodologi Penelitian Dan Proposal Tesis|setting
+1543|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF185203|4540|TF185203 Pemrosesan Sinyal|setting
+1544|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF185314|4541|TF185314 Identifikasi Sistem|setting
+1545|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF185311|4542|TF185311 Kontrol Prediktif|setting
+1546|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF185312|4543|TF185312 Pengendalian Proses Secara Statistik|setting
+1547|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF185321|4544|TF185321 Fisika Tubuh Manusia|setting
+1548|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF185322|4545|TF185322 Assesmen Teknologi Kesehatan|setting
+1549|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF185323|4546|TF185323 Instrumentasi Medis|setting
+1550|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF185324|4547|TF185324 Psikoakustik|setting
+1551|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF185421|4548|TF185421 Teknologi Pencitraan Medis|setting
+1552|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF185422|4549|TF185422 Dasar Clinical Engineering|setting
+1553|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF185423|4550|TF185423 Fotonika Biomedis|setting
+1554|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF185424|4551|TF185424 Radiasi Dan Proteksi|setting
+1555|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF185411|4552|TF185411 Monitoring Getaran|setting
+1556|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF185412|4553|TF185412 Manajemen Keselamatan Proses|setting
+1557|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF185413|4554|TF185413 Teknologi Sensor Dan Transmitter|setting
+1558|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF185331|4555|TF185331 Sensor Fotonik|setting
+1559|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF185332|4556|TF185332 Metrologi Optis Lanjut|setting
+1560|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF185333|4557|TF185333 Optika Kuantum|setting
+1561|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF185431|4558|TF185431 Material Fotonik Untuk Energi Terbarukan|setting
+1562|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF185432|4559|TF185432 Perangkat Fotonik|setting
+1563|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF185433|4560|TF185433 Pengembangan Sistem Fotonik|setting
+1564|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF185434|4561|TF185434 Komunikasi Data Optis|setting
+1565|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF185415|4562|TF185415 Sistem Kontrol Proses Lanjut|setting
+1566|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF185416|4563|TF185416 Instrumentasi Proses Lanjut|setting
+1567|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF185101E|4564|TF185101 Fisika Teknik Lanjut|setting
+1568|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF185140|4565|TF185140 Pemetaan Potensi Energi|setting
+1569|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF185102E|4566|TF185102 Matematika Teknik Lanjut|setting
+1570|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF185210|4567|TF185210 Teknologi Konversi Energi|setting
+1571|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF185220|4568|TF185220 Optimasi Sistem Energi|setting
+1572|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF185271E|4569|TF185271 Metodologi Penelitian dan Proposal Tesis|setting
+1573|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF185310|4571|TF185310 Audit dan Manajemen Energi|setting
+1574|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF185341|4572|TF185341 Energi Biomassa|setting
+1575|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF185342|4573|TF185342 Energi Air|setting
+1576|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF185343|4574|TF185343 Energi Surya|setting
+1577|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF185344|4575|TF185344 Energi Angin|setting
+1578|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF185345|4576|TF185345 Sistem Distribusi Energi|setting
+1579|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF185346|4577|TF185346 Keberlanjutan Dan Kebijakan Energi|setting
+1580|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF185441|4578|TF185441 Energi Panas Bumi|setting
+1581|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF185443|4579|TF185443 Reduksi Emisi|setting
+1582|Fakultas Teknologi Industri (FTI)|Teknik Fisika|TF185444|4580|TF185444 Konservasi Energi|setting
+1583|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|RM18-5104|4581|Sistem Koordinat dan Proyeksi Peta|setting
+1584|Fakultas Teknologi Industri (FTI)|Teknik Mesin|APL-A|4584|TM185311-Analisa Pencemaran Lingkungan-A|setting
+1585|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|KurikulumGeomatika2018-2023|4587|Dokumen Kurikulum Geomatika 2018-2023|setting
+1586|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Geomatika|Data TA - RM184831|4590|Form Permohonan Data TUGAS AKHIR|setting
+1587|Fakultas Teknik Sipil, Lingkungan, dan Kebumian (FTSLK)|Teknik Lingkungan|TA|4604|Tugas Akhir|setting
+1588|Fakultas Teknologi Industri (FTI)|Teknik Fisika|STATISTIK1|4666|MK COBA STATISTIK 1|setting

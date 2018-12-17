@@ -1,0 +1,4 @@
+,antecedents,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction,antecedent_len
+10,"frozenset({'IS4307 - Pemrograman Web [A]', 'IS4309 - Rekayasa Kebutuhan Perangkat Lunak [A]'})",frozenset({'IW4301 - Sistem Basis Data [A]'}),0.011393229166666666,0.01171875,0.010416666666666666,0.9142857142857143,78.01904761904761,0.010283152262369791,11.529947916666663,2
+11,"frozenset({'IS4307 - Pemrograman Web [A]', 'IW4301 - Sistem Basis Data [A]'})",frozenset({'IS4309 - Rekayasa Kebutuhan Perangkat Lunak [A]'}),0.0107421875,0.013997395833333334,0.010416666666666666,0.9696969696969696,69.27695560253699,0.010266304016113281,32.53808593749991,2
+12,"frozenset({'IS4309 - Rekayasa Kebutuhan Perangkat Lunak [A]', 'IW4301 - Sistem Basis Data [A]'})",frozenset({'IS4307 - Pemrograman Web [A]'}),0.010416666666666666,0.0126953125,0.010416666666666666,1.0,78.76923076923077,0.010284423828125,inf,2

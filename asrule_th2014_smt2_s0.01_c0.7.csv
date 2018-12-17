@@ -1,0 +1,2 @@
+,antecedents,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction,antecedent_len
+2,"frozenset({'TF 141331 AKUSTIK', 'TF 141232 STATISTIK DAN STOKASTIK'})",frozenset({'TF 141231 MATEMATIKA REKAYASA I'}),0.013754045307443365,0.09546925566343042,0.013754045307443365,1.0,10.47457627118644,0.01244095683958065,inf,2
